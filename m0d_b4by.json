@@ -1,0 +1,90 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Babies Mod",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Baby/Babies%20Mod/Babies%20Mod.jpg",
+      "download":"https://aweu.net/2023/Ginura/Baby/Babies%20Mod/Babies%20Mod.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Babies Mod</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":2,
+      "name":"Baby",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Baby/Baby/Baby.jpg",
+      "download":"https://aweu.net/2023/Ginura/Baby/Baby/Baby.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Baby</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":3,
+      "name":"Baby in yellow",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Baby/Baby%20in%20yellow/Baby%20in%20yellow.jpg",
+      "download":"https://aweu.net/2023/Ginura/Baby/Baby%20in%20yellow/Baby%20in%20yellow.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Baby in yellow</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+   },
+   {
+    "id":4,
+    "name":"Baby Long Legs",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Baby/Baby%20Long%20Legs/Baby%20Long%20Legs.jpg",
+    "download":"https://aweu.net/2023/Ginura/Baby/Baby%20Long%20Legs/Baby%20Long%20Legs.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Baby Long Legs</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":5,
+    "name":"Baby Long Legs Poppy",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Baby/Baby%20Long%20Legs%20Poppy/Baby%20Long%20Legs%20Poppy.jpg",
+    "download":"https://aweu.net/2023/Ginura/Baby/Baby%20Long%20Legs%20Poppy/Baby%20Long%20Legs%20Poppy.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Baby Long Legs Poppy</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod </div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":6,
+    "name":"Baby Mod Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Baby/Baby%20Mod%20Pack/Baby%20Mod%20Pack.jpg",
+    "download":"https://aweu.net/2023/Ginura/Baby/Baby%20Mod%20Pack/Baby%20Mod%20Pack.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Baby Mod Pack</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":7,
+    "name":"Children And Babies",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Baby/Children%20And%20Babies/Children%20And%20Babies.jpg",
+    "download":"https://aweu.net/2023/Ginura/Baby/Children%20And%20Babies/Children%20And%20Babies.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Children And Babies</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  }
+  ]
+}
