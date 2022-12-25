@@ -1,0 +1,74 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"A house by the lake",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/House/A%20house%20by%20the%20lake/A%20house%20by%20the%20lake.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/House/A%20house%20by%20the%20lake/A%20house%20by%20the%20lake.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">A house by the lake</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":2,
+      "name":"A small village house",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/House/A%20small%20village%20house/A%20small%20village%20house.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/House/A%20small%20village%20house/A%20small%20village%20house.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">A small village house</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":3,
+      "name":"Amazing house",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/House/Amazing%20house/Amazing%20house.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/House/Amazing%20house/Amazing%20house.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Amazing house</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+   },
+   {
+    "id":4,
+    "name":"An ordinary two storey",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/House/An%20ordinary%20two%20storey/An%20ordinary%20two%20storey.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/House/An%20ordinary%20two%20storey/An%20ordinary%20two%20storey.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">An ordinary two storey</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":5,
+    "name":"BIG HOUSE",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/House/BIG%20HOUSE/BIG%20HOUSE.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/House/BIG%20HOUSE/BIG%20HOUSE.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">BIG HOUSE</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod </div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  }
+  ]
+}
