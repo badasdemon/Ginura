@@ -32,59 +32,43 @@
   [
     {
       "id":1,
-      "name":"SCP 049_2",
+      "name":"Bismark",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"<div>\n<p style=\"text-align: justify;\">SCP 049_2</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bismark/Bismark.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bismark/Bismark.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Bismark</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
     },
     {
       "id":2,
-      "name":"SCP 096",
+      "name":"Bison",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"<div>\n<p style=\"text-align: justify;\">SCP 096</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bison/Bison.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bison/Bison.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Bison</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
     },
     {
       "id":3,
-      "name":"SCP 096 Holding Cell",
+      "name":"Boat",
       "category":"Mods",
-      "image":"https://aweu.net/",
-      "download":"https://aweu.net/",
-      "description":"<div>\n<p style=\"text-align: justify;\">SCP 096 Holding Cell</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat/Boat.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat/Boat.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Boat</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
    },
    {
     "id":4,
-    "name":"SCP 096_1",
+    "name":"Boat 2",
     "category":"Mods",
-    "image":"https://aweu.net/",
-    "download":"https://aweu.net/",
-    "description":"<div>\n<p style=\"text-align: justify;\">SCP 096_1</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%202/Boat%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%202/Boat%202.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Boat 2</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
   },
   {
     "id":5,
-    "name":"SCP 106",
+    "name":"Boat 3",
     "category":"Mods",
-    "image":"https://aweu.net/",
-    "download":"https://aweu.net/",
-    "description":"<div>\n<p style=\"text-align: justify;\">SCP 106</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod </div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
-  },
-  {
-    "id":6,
-    "name":"SCP 173",
-    "category":"Mods",
-    "image":"https://aweu.net/",
-    "download":"https://aweu.net/",
-    "description":"<div>\n<p style=\"text-align: justify;\">SCP 173</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
-  },
-  {
-    "id":7,
-    "name":"SCP CB SCP SL",
-    "category":"Mods",
-    "image":"https://aweu.net/",
-    "download":"https://aweu.net/",
-    "description":"<div>\n<p style=\"text-align: justify;\">SCP CB SCP SL</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%203/Boat%203.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%203/Boat%203.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Boat 3</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod </div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
   }
   ]
 }
