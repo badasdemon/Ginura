@@ -1,0 +1,74 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Bigpack Furniture",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Bigpack%20Furniture/Bigpack%20Furniture.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Bigpack%20Furniture/Bigpack%20Furniture.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Bigpack Furniture</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":2,
+      "name":"Caramel Destroyer",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Caramel%20Destroyer/Caramel%20Destroyer.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Caramel%20Destroyer/Caramel%20Destroyer.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Caramel Destroyer</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+    },
+    {
+      "id":3,
+      "name":"Funiture and Dishes",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Funiture%20and%20Dishes/Funiture%20and%20Dishes.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Funiture%20and%20Dishes/Funiture%20and%20Dishes.zip",
+      "description":"<div>\n<p style=\"text-align: justify;\">Funiture and Dishes</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+   },
+   {
+    "id":4,
+    "name":"Furniture",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Furniture/Furniture.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Furniture/Furniture.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Furniture</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod</div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  },
+  {
+    "id":5,
+    "name":"Furniture Bed",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Furniture%20Bed/Furniture%20Bed.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Funiture/Furniture%20Bed/Furniture%20Bed.zip",
+    "description":"<div>\n<p style=\"text-align: justify;\">Furniture Bed</p>\n</div>\n<div class=\"content__wrap-row__gtm_adv\" style=\"text-align: justify;\"></div>\n<div>\n<div>\n<figure class=\"image align-center\" style=\"text-align: justify;\">\n<div><p style=\"font-size:11px\">1. Click Install MOD</div>\n<div><p style=\"font-size:11px\">Your downloaded file can be found in the Download folder </div>\n<div><p style=\"font-size:11px\">EXAMPLE: Download/EXAMPLEMod/EXAMPLE.melmod </div>\n<div><p style=\"font-size:11px\">3. COPY & PASTE</div>\n<div><p style=\"font-size:11px\">Copy extracted mod EXAMPLE: EXAMPLE.melmod and then PASTE it in folder=</div>\n<div><p style=\"font-size:11px\">/android/data/com.TwentySeven.MelonPlayground/files/Mods</div>\n<div><p style=\"font-size:11px\">DETAIL TARGET FOLDER</div>\n<div><p style=\"font-size:11px\">storage/emulated/0 /android/data/</div>\n<div><p style=\"font-size:11px\">com.TwentySeven. MelonPlayground/ mod/</div>\n<div><p style=\"font-size:11px\">[your EXAMPLE.melsave here)</div></figure>\n</div>"
+  }
+  ]
+}
