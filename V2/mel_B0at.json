@@ -1,0 +1,351 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/8792276583",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/1698871739",
+      "main_ads_natives":"ca-app-pub-1437241986629219/3539949908",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/4029521608",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f81fa25",
+      "initialize_sdk_backup_ads":"17f81fa25",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Bismark",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bismark/Bismark.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bismark/Bismark.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Bison",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bison/Bison.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bison/Bison.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Boat",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat/Boat.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat/Boat.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Boat 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%202/Boat%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%202/Boat%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Boat 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%203/Boat%203.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%203/Boat%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Boat 4",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%204/Boat%204.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%204/Boat%204.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Boat 5",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%205/Boat%205.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%205/Boat%205.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Boat 6",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%206/Boat%206.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%206/Boat%206.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Boat Soldiers",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%20Soldiers/Boat%20Soldiers.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%20Soldiers/Boat%20Soldiers.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"Eugene ship",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Eugene%20ship/Eugene%20ship.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Eugene%20ship/Eugene%20ship.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Fishing Boat",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Fishing%20Boat/Fishing%20Boat.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Fishing%20Boat/Fishing%20Boat.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"Huge Ship",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Huge%20Ship/Huge%20Ship.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Huge%20Ship/Huge%20Ship.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":13,
+    "name":"Nuclear Submarine",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Nuclear%20Submarine/Nuclear%20Submarine.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Nuclear%20Submarine/Nuclear%20Submarine.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":14,
+    "name":"Pack by boats",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pack%20by%20boats/Pack%20by%20boats.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pack%20by%20boats/Pack%20by%20boats.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":15,
+    "name":"Pirate Ship",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirate%20Ship/Pirate%20Ship.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirate%20Ship/Pirate%20Ship.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":16,
+    "name":"Pirate Ship 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirate%20Ship%202/Pirate%20Ship%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirate%20Ship%202/Pirate%20Ship%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":17,
+    "name":"Pirates Boat",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirates%20Boat/Pirates%20Boat.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirates%20Boat/Pirates%20Boat.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":18,
+    "name":"Portal Boat",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Portal%20Boat/Portal%20Boat.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Portal%20Boat/Portal%20Boat.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":19,
+    "name":"Ship",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Ship/Ship.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Ship/Ship.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":20,
+    "name":"Ship 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Ship%202/Ship%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Ship%202/Ship%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":21,
+    "name":"Small Military Boat",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Small%20Military%20Boat/Small%20Military%20Boat.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Small%20Military%20Boat/Small%20Military%20Boat.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":22,
+    "name":"Submarine",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine/Submarine.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine/Submarine.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":23,
+    "name":"Submarine - PP90-PL",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20-%20PP90-PL/Submarine%20-%20PP90-PL.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20-%20PP90-PL/Submarine%20-%20PP90-PL.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":24,
+    "name":"Submarine 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%202/Submarine%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%202/Submarine%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":25,
+    "name":"Submarine Beta version",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Beta%20version/Submarine%20Beta%20version.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Beta%20version/Submarine%20Beta%20version.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":26,
+    "name":"Submarine Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Mod/Submarine%20Mod.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Mod/Submarine%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":27,
+    "name":"Submarine Mod 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Mod%202/Submarine%20Mod%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Mod%202/Submarine%20Mod%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":28,
+    "name":"Submarine Seamoth",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Seamoth/Submarine%20Seamoth.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Seamoth/Submarine%20Seamoth.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":29,
+    "name":"Titanic",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Titanic/Titanic.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Titanic/Titanic.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":30,
+    "name":"USSR ship Aurora",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/USSR%20ship%20Aurora/USSR%20ship%20Aurora.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/USSR%20ship%20Aurora/USSR%20ship%20Aurora.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":31,
+    "name":"VECTOR EPS 10",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/VECTOR%20EPS%2010/VECTOR%20EPS%2010.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/VECTOR%20EPS%2010/VECTOR%20EPS%2010.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":32,
+    "name":"Warship",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship/Warship.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship/Warship.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":33,
+    "name":"Warship 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%202/Warship%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%202/Warship%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":34,
+    "name":"Warship 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%203/Warship%203.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%203/Warship%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":35,
+    "name":"Warship 4",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%204/Warship%204.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%204/Warship%204.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":36,
+    "name":"Warship 5",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%205/Warship%205.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%205/Warship%205.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":37,
+    "name":"Warship 6",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%206/Warship%206.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%206/Warship%206.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":38,
+    "name":"Yacht",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Yacht/Yacht.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Yacht/Yacht.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":39,
+    "name":"МРК 12300",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/%D0%9C%D0%A0%D0%9A%2012300/%D0%9C%D0%A0%D0%9A%2012300.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/%D0%9C%D0%A0%D0%9A%2012300/%D0%9C%D0%A0%D0%9A%2012300.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
