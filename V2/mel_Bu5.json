@@ -1,0 +1,183 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/5638116748",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/8438134937",
+      "main_ads_natives":"ca-app-pub-1437241986629219/3408087969",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/5811971596",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f81c09d",
+      "initialize_sdk_backup_ads":"17f81c09d",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Bus",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus/Bus.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus/Bus.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Bus 2",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%202/Bus%202.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%202/Bus%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Bus 3",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%203/Bus%203.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%203/Bus%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Bus 4",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%204/Bus%204.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%204/Bus%204.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Bus 5",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%205/Bus%205.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%205/Bus%205.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Bus 6",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%206/Bus%206.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%206/Bus%206.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Bus 7",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%207/Bus%207.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%207/Bus%207.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Bus 8",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%208/Bus%208.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%208/Bus%208.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Bus Base AO79 Etalon",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%20Base%20AO79%20Etalon/Bus%20Base%20AO79%20Etalon.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%20Base%20AO79%20Etalon/Bus%20Base%20AO79%20Etalon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"Bus Bogdan",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%20Bogdan/Bus%20Bogdan.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%20Bogdan/Bus%20Bogdan.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Bus for crash tests",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%20for%20crash%20tests/Bus%20for%20crash%20tests.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%20for%20crash%20tests/Bus%20for%20crash%20tests.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"Bus for crash tests 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%20for%20crash%20tests%202/Bus%20for%20crash%20tests%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Bus%20for%20crash%20tests%202/Bus%20for%20crash%20tests%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":13,
+    "name":"Citroen Jumper",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Citroen%20Jumper/Citroen%20Jumper.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Citroen%20Jumper/Citroen%20Jumper.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":14,
+    "name":"Nice bus",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Nice%20bus/Nice%20bus.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Nice%20bus/Nice%20bus.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":15,
+    "name":"PAZ-32053 and PAZ-3205",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/PAZ-32053%20and%20PAZ-3205/PAZ-32053%20and%20PAZ-3205.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/PAZ-32053%20and%20PAZ-3205/PAZ-32053%20and%20PAZ-3205.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":16,
+    "name":"The Bus",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/The%20Bus/The%20Bus.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/The%20Bus/The%20Bus.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":17,
+    "name":"Volkswagen bus",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Volkswagen%20bus/Volkswagen%20bus.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/Volkswagen%20bus/Volkswagen%20bus.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":18,
+    "name":"ХАЗ - А103",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Bus/%D0%A5%D0%90%D0%97%20-%20%D0%90103/%D0%A5%D0%90%D0%97%20-%20%D0%90103.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Bus/%D0%A5%D0%90%D0%97%20-%20%D0%90103/%D0%A5%D0%90%D0%97%20-%20%D0%90103.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
