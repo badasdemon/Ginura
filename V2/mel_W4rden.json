@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/2893082641",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/3949630553",
+      "main_ads_natives":"ca-app-pub-1437241986629219/1580000976",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":" ca-app-pub-1437241986629219/7953837639",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f7d41fd",
+      "initialize_sdk_backup_ads":"17f7d41fd",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Melon Playground Warden",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Warden/Melon%20Playground%20Warden/Melon%20Playground%20Warden.jpg",
+      "download":"https://aweu.net/2023/Ginura/Warden/Melon%20Playground%20Warden/Melon%20Playground%20Warden.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Warden",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Warden/Warden/Warden.jpg",
+      "download":"https://aweu.net/2023/Ginura/Warden/Warden/Warden.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Warden Minecraft",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Warden/Warden%20Minecraft/Warden%20Minecraft.jpg",
+      "download":"https://aweu.net/2023/Ginura/Warden/Warden%20Minecraft/Warden%20Minecraft.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Warden mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Warden/Warden%20mod/Warden%20mod.jpg",
+    "download":"https://aweu.net/2023/Ginura/Warden/Warden%20mod/Warden%20mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Warden mod 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Warden/Warden%20mod%202/Warden%20mod%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Warden/Warden%20mod%202/Warden%20mod%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Warden Mod 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Warden/Warden%20Mod%203/Warden%20Mod%203.jpg",
+    "download":"https://aweu.net/2023/Ginura/Warden/Warden%20Mod%203/Warden%20Mod%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Warden Mod 4",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Warden/Warden%20Mod%204/Warden%20Mod%204.jpg",
+    "download":"https://aweu.net/2023/Ginura/Warden/Warden%20Mod%204/Warden%20Mod%204.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Minecraft in Melon",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Warden/Minecraft%20in%20Melon/Minecraft%20in%20Melon.jpg",
+    "download":"https://aweu.net/2023/Ginura/Warden/Minecraft%20in%20Melon/Minecraft%20in%20Melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Minecraft Warden 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Warden/Minecraft%20Warden%202/Minecraft%20Warden%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Warden/Minecraft%20Warden%202/Minecraft%20Warden%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"Warden NPC",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Warden/Warden%20NPC/Warden%20NPC.jpg",
+    "download":"https://aweu.net/2023/Ginura/Warden/Warden%20NPC/Warden%20NPC.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
