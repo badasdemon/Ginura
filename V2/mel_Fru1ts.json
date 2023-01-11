@@ -1,0 +1,103 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/6558077052",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/8883775929",
+      "main_ads_natives":"ca-app-pub-1437241986629219/5758919131",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/3132755796",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f7f0e3d",
+      "initialize_sdk_backup_ads":"17f7f0e3d",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Banana",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Fruits/Banana/Banana.jpg",
+      "download":"https://aweu.net/2023/Ginura/Fruits/Banana/Banana.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Bowl With Vitamin",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Fruits/Bowl%20With%20Vitamin/Bowl%20with%20vitamins.jpg",
+      "download":"https://aweu.net/2023/Ginura/Fruits/Bowl%20With%20Vitamin/Bowl%20with%20vitamins.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Dragon Fruit",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Fruits/Dragon%20Fruit/Dragon%20Fruit.jpg",
+      "download":"https://aweu.net/2023/Ginura/Fruits/Dragon%20Fruit/Dragon%20Fruit.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Fruits, Vegetables and Berries",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Fruits/Fruits%2C%20Vegetables%20and%20Berries/Fruits%2C%20Vegetables%20and%20Berries.jpg",
+    "download":"https://aweu.net/2023/Ginura/Fruits/Fruits%2C%20Vegetables%20and%20Berries/Fruits%2C%20Vegetables%20and%20Berries.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Lemon npc",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Fruits/Lemon%20npc/Lemon%20npc.jpg",
+    "download":"https://aweu.net/2023/Ginura/Fruits/Lemon%20npc/Lemon%20npc.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Orange + Item",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Fruits/Orange%20%2B%20Item/Orange%20%2B%20Item.jpg",
+    "download":"https://aweu.net/2023/Ginura/Fruits/Orange%20%2B%20Item/Orange%20%2B%20Item.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Vegetables and fruits",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Fruits/Vegetables%20and%20fruits/Vegetables%20and%20fruits.jpg",
+    "download":"https://aweu.net/2023/Ginura/Fruits/Vegetables%20and%20fruits/Vegetables%20and%20fruits.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Vegetables and Fruits 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Fruits/Vegetables%20and%20Fruits%202/Vegetables%20and%20Fruits%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Fruits/Vegetables%20and%20Fruits%202/Vegetables%20and%20Fruits%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
