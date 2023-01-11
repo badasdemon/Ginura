@@ -1,0 +1,135 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/9689555741",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/3138296124",
+      "main_ads_natives":"ca-app-pub-1437241986629219/4848045184",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/6815732974",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f7cceed",
+      "initialize_sdk_backup_ads":"17f7cceed",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+ {
+      "id":1,
+      "name":"Glitch Gun",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Glitch/Glitch%20Gun/Glitch%20Gun.jpg",
+      "download":"https://aweu.net/2023/Ginura/Glitch/Glitch%20Gun/Glitch%20Gun.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Glitch Infection",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Glitch/Glitch%20Infection/Glitch%20Infection.jpg",
+      "download":"https://aweu.net/2023/Ginura/Glitch/Glitch%20Infection/Glitch%20Infection.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Glitch Melon Mod",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Glitch/Glitch%20Melon%20Mod/Glitch%20Melon%20Mod.jpg",
+      "download":"https://aweu.net/2023/Ginura/Glitch/Glitch%20Melon%20Mod/Glitch%20Melon%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Glitched melon",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/Glitched%20melon/Glitched%20melon.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/Glitched%20melon/Glitched%20melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Minipack Peebee",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/Minipack%20Peebee/Minipack%20Peebee.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/Minipack%20Peebee/Minipack%20Peebee.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Netheritotaur mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/Netheritotaur%20mod/Netheritotaur%20mod.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/Netheritotaur%20mod/Netheritotaur%20mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Nps-glitch melon from pibbies",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/Nps-glitch%20melon%20from%20pibbies/Nps-glitch%20melon%20from%20pibbies.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/Nps-glitch%20melon%20from%20pibbies/Nps-glitch%20melon%20from%20pibbies.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Doors and roblox mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/Doors%20and%20roblox%20mod/Doors%20and%20roblox%20mod.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/Doors%20and%20roblox%20mod/Doors%20and%20roblox%20mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Robot Melon",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/Robot%20Melon/Robot%20Melon.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/Robot%20Melon/Robot%20Melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"SHELLY MOD",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/SHELLY%20MOD/SHELLY%20MOD.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/SHELLY%20MOD/SHELLY%20MOD.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Sonic Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/Sonic%20Mod/Sonic%20Mod.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/Sonic%20Mod/Sonic%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"Stickman CD",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Glitch/Stickman%20CD/Stickman%20CD.jpg",
+    "download":"https://aweu.net/2023/Ginura/Glitch/Stickman%20CD/Stickman%20CD.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
