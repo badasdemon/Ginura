@@ -1,0 +1,127 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/1842607894",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/2086150474",
+      "main_ads_natives":"ca-app-pub-1437241986629219/5833823793",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/8835639078",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f7be8cd",
+      "initialize_sdk_backup_ads":"17f7be8cd",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Country Humans",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Human/Country%20Humans/Country%20Humans.jpg",
+      "download":"https://aweu.net/2023/Ginura/Human/Country%20Humans/Country%20Humans.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"CRUSH MAN",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Human/CRUSH%20MAN/CRUSH%20MAN.jpg",
+      "download":"https://aweu.net/2023/Ginura/Human/CRUSH%20MAN/CRUSH%20MAN.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Dead Human",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Human/Dead%20Human/Dead%20Human.jpg",
+      "download":"https://aweu.net/2023/Ginura/Human/Dead%20Human/Dead%20Human.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Human",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Human/Human/Human.jpg",
+    "download":"https://aweu.net/2023/Ginura/Human/Human/human%E2%80%8B.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"NPC - Humanoid People",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Human/NPC%20-%20Humanoid%20People/NPC%20-%20Humanoid%20People.jpg",
+    "download":"https://aweu.net/2023/Ginura/Human/NPC%20-%20Humanoid%20People/people%20humen.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"NPC in the form of a real person",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Human/NPC%20in%20the%20form%20of%20a%20real%20person/NPC%20in%20the%20form%20of%20a%20real%20person.jpg",
+    "download":"https://aweu.net/2023/Ginura/Human/NPC%20in%20the%20form%20of%20a%20real%20person/NPC%20in%20the%20form%20of%20a%20real%20person.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"NPC Man without clothes",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Human/NPC%20Man%20without%20clothes/NPC%20Man%20without%20clothes.jpg",
+    "download":"https://aweu.net/2023/Ginura/Human/NPC%20Man%20without%20clothes/NPC%20Man%20without%20clothes.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"NPS - Henk",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Human/NPS%20-%20Henk/NPS%20-%20Henk.jpg",
+    "download":"https://aweu.net/2023/Ginura/Human/NPS%20-%20Henk/NPS%20-%20Henk.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"NPS - Human",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Human/NPS%20-%20Human/NPS%20-%20Human.jpg",
+    "download":"https://aweu.net/2023/Ginura/Human/NPS%20-%20Human/NPS%20-%20Human.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"Real Human",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Human/Real%20Human/Real%20Human.jpg",
+    "download":"https://aweu.net/2023/Ginura/Human/Real%20Human/Real%20Human.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Realistic person",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Human/Realistic%20person/Realistic%20person.jpg",
+    "download":"https://aweu.net/2023/Ginura/Human/Realistic%20person/Realistic%20person.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
