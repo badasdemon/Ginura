@@ -1,0 +1,104 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/6384222205",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/1691681613",
+      "main_ads_natives":"ca-app-pub-1437241986629219/4781960954",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/5130850281",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f7d7b85",
+      "initialize_sdk_backup_ads":"17f7d7b85",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Among Us en Melon",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20en%20Melon/Among%20Us%20en%20Melon.jpg",
+      "download":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20en%20Melon/Among%20Us%20en%20Melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Among Us in Melon",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20in%20Melon/Among%20Us%20in%20Melon.jpg",
+      "download":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20in%20Melon/Among%20Us%20in%20Melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Among Us Melon",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20Melon/Among%20Us%20Melon.jpg",
+      "download":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20Melon/Among%20Us%20Melon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Among US Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Amongus/Among%20US%20Mod/Among%20US%20Mod.jpg",
+    "download":"https://aweu.net/2023/Ginura/Amongus/Among%20US%20Mod/Among%20US%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Among Us Mod 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20Mod%202/Among%20Us%20Mod%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20Mod%202/Among%20Us%20Mod%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Among Us Mod Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20Mod%20Pack/Among%20Us%20Mod%20Pack.jpg",
+    "download":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20Mod%20Pack/Among%20Us%20Mod%20Pack.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Among Us Mod Pack By Acee",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20Mod%20Pack%20By%20Acee/Among%20Us%20Mod%20Pack%20By%20Acee.jpg",
+    "download":"https://aweu.net/2023/Ginura/Amongus/Among%20Us%20Mod%20Pack%20By%20Acee/Among%20Us%20Mod%20Pack%20By%20Acee.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+    ,
+  {
+    "id":8,
+    "name":"Red Among Us",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Amongus/Red%20Among%20Us/Red%20Among%20Us.jpg",
+    "download":"https://aweu.net/2023/Ginura/Amongus/Red%20Among%20Us/Red%20Among%20Us.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
