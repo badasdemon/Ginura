@@ -1,0 +1,231 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/4245144027",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/2801583304",
+      "main_ads_natives":"ca-app-pub-1437241986629219/6334715774",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/3674298381",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f7ed4b5",
+      "initialize_sdk_backup_ads":"17f7ed4b5",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Criminals And FBI Mod",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Swat/Criminals%20And%20FBI%20Mod/Criminals%20And%20FBI%20Mod.jpg",
+      "download":"https://aweu.net/2023/Ginura/Swat/Criminals%20And%20FBI%20Mod/Criminals%20And%20FBI%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"FBI and SWAT",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Swat/FBI%20and%20SWAT/FBI%20and%20SWAT.jpg",
+      "download":"https://aweu.net/2023/Ginura/Swat/FBI%20and%20SWAT/FBI%20and%20SWAT.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"SWAT",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Swat/SWAT/SWAT.jpg",
+      "download":"https://aweu.net/2023/Ginura/Swat/SWAT/SWAT.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"SWAT 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/SWAT%202/SWAT%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/SWAT%202/SWAT%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Swat mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Swat%20mod/Swat%20mod.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Swat%20mod/Swat%20mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"SWAT Mod 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/SWAT%20Mod%202/SWAT%20Mod%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/SWAT%20Mod%202/SWAT%20Mod%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Swat Mod 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Swat%20Mod%203/Swat%20Mod%203.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Swat%20Mod%203/Swat%20Mod%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Swat pack Update",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Swat%20pack%20Update/Swat%20pack%20Update.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Swat%20pack%20Update/Swat%20pack%20Update.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"SWAT van",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/SWAT%20van/SWAT%20van.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/SWAT%20van/SWAT%20van.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"SWAT Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/SWAT.%E2%80%8B%20Pack/SWAT.%E2%80%8B%20Pack.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/SWAT.%E2%80%8B%20Pack/SWAT.%E2%80%8B%20Pack.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"U.N Unit, United Nations",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/U.N%20Unit%2C%20United%20Nations/U.N%20Unit%2C%20United%20Nations.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/U.N%20Unit%2C%20United%20Nations/U.N%20Unit%2C%20United%20Nations.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"FBI OPEN UP",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/FBI%20OPEN%20UP/FBI%20OPEN%20UP.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/FBI%20OPEN%20UP/FBI%20OPEN%20UP.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":13,
+    "name":"Minipack on the police",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Minipack%20on%20the%20police/Minipack%20on%20the%20police.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Minipack%20on%20the%20police/Minipack%20on%20the%20police.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":14,
+    "name":"Mod for two policemen",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Mod%20for%20two%20policemen/Mod%20for%20two%20policemen.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Mod%20for%20two%20policemen/Mod%20for%20two%20policemen.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":15,
+    "name":"NPC - riot police",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/NPC%20-%20riot%20police/NPC%20-%20riot%20police.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/NPC%20-%20riot%20police/NPC%20-%20riot%20police.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":16,
+    "name":"NPC Cop",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/NPC%20Cop/NPC%20Cop.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/NPC%20Cop/NPC%20Cop.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":17,
+    "name":"NPC Swat",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/NPC%20Swat/NPC%20Swat.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/NPC%20Swat/NPC%20Swat.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":18,
+    "name":"Pack of police cars",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Pack%20of%20police%20cars/Pack%20of%20police%20cars.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Pack%20of%20police%20cars/Pack%20of%20police%20cars.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":19,
+    "name":"Police",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Police/Police.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Police/Police.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":20,
+    "name":"Police Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Police%20station/Police%20station.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Police%20station/Police%20station.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":21,
+    "name":"Police station",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Police%20station/Police%20station.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Police%20station/Police%20station.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":22,
+    "name":"Secret Military Laboratory",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Secret%20Military%20Laboratory/Secret%20Military%20Laboratory.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Secret%20Military%20Laboratory/Secret%20Military%20Laboratory.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":23,
+    "name":"Sierra7",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Sierra7/Sierra7.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Sierra7/Sierra7.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":24,
+    "name":"Special forces, SWAT, riot police",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/Special%20forces%2C%20SWAT%2C%20riot%20police/Special%20forces%2C%20SWAT%2C%20riot%20police.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/Special%20forces%2C%20SWAT%2C%20riot%20police/Special%20forces%2C%20SWAT%2C%20riot%20police.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
