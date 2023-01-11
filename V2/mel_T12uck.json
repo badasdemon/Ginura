@@ -1,0 +1,263 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f7db50d",
+      "initialize_sdk_backup_ads":"17f7db50d",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Cargo Truck",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Truck/Cargo%20Truck/Cargo%20Truck.jpg",
+      "download":"https://aweu.net/2023/Ginura/Truck/Cargo%20Truck/Cargo%20Truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"DAF truck",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Truck/DAF%20truck/DAF%20truck.jpg",
+      "download":"https://aweu.net/2023/Ginura/Truck/DAF%20truck/DAF%20truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Destination 2 Truck",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Truck/Destination%202%20Truck/Destination%202%20Truck.jpg",
+      "download":"https://aweu.net/2023/Ginura/Truck/Destination%202%20Truck/Destination%202%20Truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Fire Truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Fire%20Truck/Fire%20Truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Fire%20Truck/Fire%20Truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Fura DVS Truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Fura%20DVS%20Truck/Fura%20DVS%20Truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Fura%20DVS%20Truck/Fura%20DVS%20Truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"German truck IFA L60",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/German%20truck%20IFA%20L60/German%20truck%20IFA%20L60.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/German%20truck%20IFA%20L60/German%20truck%20IFA%20L60.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"Gruzovik Truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Gruzovik%20Truck/Gruzovik%20Truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Gruzovik%20Truck/Gruzovik%20Truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Gryzobik Truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Gryzobik%20Truck/Gryzobik%20Truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Gryzobik%20Truck/Gryzobik%20Truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Military pickup truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Military%20pickup%20truck/Military%20pickup%20truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Military%20pickup%20truck/Military%20pickup%20truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"Monster Truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Monster%20Truck/Monster%20Truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Monster%20Truck/Monster%20Truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":11,
+    "name":"Monster Truck Raptor",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Monster%20Truck%20Raptor/Monster%20Truck%20Raptor.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Monster%20Truck%20Raptor/Monster%20Truck%20Raptor.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":12,
+    "name":"Save - truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Save%20-%20truck/Save%20-%20truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Save%20-%20truck/Save%20-%20truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":13,
+    "name":"Semi-tracked truck with a cannon",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Semi-tracked%20truck%20with%20a%20cannon/Semi-tracked%20truck%20with%20a%20cannon.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Semi-tracked%20truck%20with%20a%20cannon/Semi-tracked%20truck%20with%20a%20cannon.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":14,
+    "name":"Semitrailer truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Semitrailer%20truck/Semitrailer%20truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Semitrailer%20truck/Semitrailer%20truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":15,
+    "name":"SWAT Truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/SWAT%20Truck/SWAT%20Truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/SWAT%20Truck/SWAT%20Truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":16,
+    "name":"Tow truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Tow%20truck/Tow%20truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Tow%20truck/Tow%20truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":17,
+    "name":"Tow truck 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Tow%20truck%202/Tow%20truck%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Tow%20truck%202/Tow%20truck%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":18,
+    "name":"Tow Truck 3",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Tow%20Truck%203/Tow%20Truck%203.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Tow%20Truck%203/Tow%20Truck%203.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":19,
+    "name":"Trailer truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Trailer%20truck/Trailer%20truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Trailer%20truck/Trailer%20truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":20,
+    "name":"Trailer Truck 2",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Trailer%20Truck%202/Trailer%20Truck%202.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Trailer%20Truck%202/Trailer%20Truck%202.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":21,
+    "name":"Truck Large",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Truck%20Large/Truck%20Large.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Truck%20Large/Truck%20Large.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":22,
+    "name":"Truck Magnet",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Truck%20Magnet/Truck%20Magnet.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Truck%20Magnet/Truck%20Magnet.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":23,
+    "name":"Truck MAN",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Truck%20MAN/Truck%20MAN.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Truck%20MAN/Truck%20MAN.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":24,
+    "name":"Truck Mercedes Actros",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Truck%20Mercedes%20Actros/Truck%20Mercedes%20Actros.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Truck%20Mercedes%20Actros/Truck%20Mercedes%20Actros.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":25,
+    "name":"Truck MG",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Truck%20MG/Truck%20MG.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Truck%20MG/Truck%20MG.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":26,
+    "name":"Truck pack",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Truck%20pack/Truck%20pack.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Truck%20pack/Truck%20pack.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":27,
+    "name":"Truck with trailer",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/Truck%20with%20trailer/Truck%20with%20trailer.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/Truck%20with%20trailer/Truck%20with%20trailer.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":28,
+    "name":"ZIL truck",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/ZIL%20truck/ZIL%20truck.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/ZIL%20truck/ZIL%20truck.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
