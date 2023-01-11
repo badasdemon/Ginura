@@ -1,0 +1,119 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-1437241986629219/5782969868",
+      "main_ads_intertitial":"ca-app-pub-1437241986629219/6158374388",
+      "main_ads_natives":"ca-app-pub-1437241986629219/3156806526",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_natives":"qwert12345",
+      "open_ads_admob":"ca-app-pub-1437241986629219/4845292717",
+      "switch_banner_natives":"1",
+      "on_off_native_listview":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"17f8233ad",
+      "initialize_sdk_backup_ads":"17f8233ad",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],"Categories":
+  [
+    {
+    "category":"All Mods"
+  },{
+    "category":"Mods"
+  },{
+    "category":"Other Mods"
+  }
+  ],
+  "Mods":
+  [
+    {
+      "id":1,
+      "name":"Fast Food Pack",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Fast%20Food%20Pack/Fast%20Food%20Pack.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Fast%20Food%20Pack/Fast%20Food%20Pack.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":2,
+      "name":"Food",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food/Food.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food/Food.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+    },
+    {
+      "id":3,
+      "name":"Food From Minecraft",
+      "category":"Mods",
+      "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20From%20Minecraft/Food%20From%20Minecraft.jpg",
+      "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20From%20Minecraft/Food%20From%20Minecraft.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+   },
+   {
+    "id":4,
+    "name":"Food Mod",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20Mod/Food%20Mod.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20Mod/Food%20Mod.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":5,
+    "name":"Food Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20Pack/Food%20Pack.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20Pack/Food%20Pack.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":6,
+    "name":"Foodcar",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Foodcar/Foodcar.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Foodcar/Foodcar.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":7,
+    "name":"French Baguette",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/French%20Baguette/French%20Baguette.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/French%20Baguette/French%20Baguette.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":8,
+    "name":"Minecraft Mod Pack",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Minecraft%20Mod%20Pack/Minecraft%20Mod%20Pack.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Minecraft%20Mod%20Pack/Minecraft%20Mod%20Pack.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":9,
+    "name":"Pack for food",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Pack%20for%20food/Pack%20for%20food.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Pack%20for%20food/Pack%20for%20food.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  },
+  {
+    "id":10,
+    "name":"STALKER Food",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/STALKER%20Food/STALKER%20Food.jpg",
+    "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/STALKER%20Food/STALKER%20Food.zip",
+      "description":"https://aweu.net/MOD%20MELON/ueue.html"
+  }
+  ]
+}
