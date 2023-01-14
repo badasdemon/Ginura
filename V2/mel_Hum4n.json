@@ -41,7 +41,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Human/Country%20Humans/Country%20Humans.jpg",
       "download":"https://aweu.net/2023/Ginura/Human/Country%20Humans/Country%20Humans.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":2,
@@ -49,7 +49,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Human/CRUSH%20MAN/CRUSH%20MAN.jpg",
       "download":"https://aweu.net/2023/Ginura/Human/CRUSH%20MAN/CRUSH%20MAN.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":3,
@@ -57,7 +57,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Human/Dead%20Human/Dead%20Human.jpg",
       "download":"https://aweu.net/2023/Ginura/Human/Dead%20Human/Dead%20Human.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
    },
    {
     "id":4,
@@ -65,7 +65,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Human/Human/Human.jpg",
     "download":"https://aweu.net/2023/Ginura/Human/Human/human%E2%80%8B.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":5,
@@ -73,7 +73,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Human/NPC%20-%20Humanoid%20People/NPC%20-%20Humanoid%20People.jpg",
     "download":"https://aweu.net/2023/Ginura/Human/NPC%20-%20Humanoid%20People/people%20humen.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":6,
@@ -81,7 +81,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Human/NPC%20in%20the%20form%20of%20a%20real%20person/NPC%20in%20the%20form%20of%20a%20real%20person.jpg",
     "download":"https://aweu.net/2023/Ginura/Human/NPC%20in%20the%20form%20of%20a%20real%20person/NPC%20in%20the%20form%20of%20a%20real%20person.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":7,
@@ -89,7 +89,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Human/NPC%20Man%20without%20clothes/NPC%20Man%20without%20clothes.jpg",
     "download":"https://aweu.net/2023/Ginura/Human/NPC%20Man%20without%20clothes/NPC%20Man%20without%20clothes.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":8,
@@ -97,7 +97,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Human/NPS%20-%20Henk/NPS%20-%20Henk.jpg",
     "download":"https://aweu.net/2023/Ginura/Human/NPS%20-%20Henk/NPS%20-%20Henk.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":9,
@@ -105,7 +105,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Human/NPS%20-%20Human/NPS%20-%20Human.jpg",
     "download":"https://aweu.net/2023/Ginura/Human/NPS%20-%20Human/NPS%20-%20Human.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":10,
@@ -113,7 +113,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Human/Real%20Human/Real%20Human.jpg",
     "download":"https://aweu.net/2023/Ginura/Human/Real%20Human/Real%20Human.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":11,
@@ -121,7 +121,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Human/Realistic%20person/Realistic%20person.jpg",
     "download":"https://aweu.net/2023/Ginura/Human/Realistic%20person/Realistic%20person.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
   ]
 }
