@@ -41,7 +41,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Fast%20Food%20Pack/Fast%20Food%20Pack.jpg",
       "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Fast%20Food%20Pack/Fast%20Food%20Pack.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":2,
@@ -49,7 +49,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food/Food.jpg",
       "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food/Food.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":3,
@@ -57,7 +57,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20From%20Minecraft/Food%20From%20Minecraft.jpg",
       "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20From%20Minecraft/Food%20From%20Minecraft.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
    },
    {
     "id":4,
@@ -65,7 +65,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20Mod/Food%20Mod.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20Mod/Food%20Mod.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":5,
@@ -73,7 +73,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20Pack/Food%20Pack.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Food%20Pack/Food%20Pack.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":6,
@@ -81,7 +81,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Foodcar/Foodcar.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Foodcar/Foodcar.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":7,
@@ -89,7 +89,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/French%20Baguette/French%20Baguette.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/French%20Baguette/French%20Baguette.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":8,
@@ -97,7 +97,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Minecraft%20Mod%20Pack/Minecraft%20Mod%20Pack.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Minecraft%20Mod%20Pack/Minecraft%20Mod%20Pack.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":9,
@@ -105,7 +105,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/Pack%20for%20food/Pack%20for%20food.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/Pack%20for%20food/Pack%20for%20food.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":10,
@@ -113,7 +113,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Food/STALKER%20Food/STALKER%20Food.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Food/STALKER%20Food/STALKER%20Food.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
   ]
 }
