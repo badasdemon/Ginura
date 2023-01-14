@@ -41,7 +41,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Truck/Cargo%20Truck/Cargo%20Truck.jpg",
       "download":"https://aweu.net/2023/Ginura/Truck/Cargo%20Truck/Cargo%20Truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":2,
@@ -49,7 +49,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Truck/DAF%20truck/DAF%20truck.jpg",
       "download":"https://aweu.net/2023/Ginura/Truck/DAF%20truck/DAF%20truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":3,
@@ -57,7 +57,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Truck/Destination%202%20Truck/Destination%202%20Truck.jpg",
       "download":"https://aweu.net/2023/Ginura/Truck/Destination%202%20Truck/Destination%202%20Truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
    },
    {
     "id":4,
@@ -65,7 +65,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Fire%20Truck/Fire%20Truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Fire%20Truck/Fire%20Truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":5,
@@ -73,7 +73,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Fura%20DVS%20Truck/Fura%20DVS%20Truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Fura%20DVS%20Truck/Fura%20DVS%20Truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":6,
@@ -81,7 +81,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/German%20truck%20IFA%20L60/German%20truck%20IFA%20L60.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/German%20truck%20IFA%20L60/German%20truck%20IFA%20L60.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":7,
@@ -89,7 +89,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Gruzovik%20Truck/Gruzovik%20Truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Gruzovik%20Truck/Gruzovik%20Truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":8,
@@ -97,7 +97,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Gryzobik%20Truck/Gryzobik%20Truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Gryzobik%20Truck/Gryzobik%20Truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":9,
@@ -105,7 +105,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Military%20pickup%20truck/Military%20pickup%20truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Military%20pickup%20truck/Military%20pickup%20truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":10,
@@ -113,7 +113,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Monster%20Truck/Monster%20Truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Monster%20Truck/Monster%20Truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":11,
@@ -121,7 +121,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Monster%20Truck%20Raptor/Monster%20Truck%20Raptor.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Monster%20Truck%20Raptor/Monster%20Truck%20Raptor.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":12,
@@ -129,7 +129,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Save%20-%20truck/Save%20-%20truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Save%20-%20truck/Save%20-%20truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":13,
@@ -137,7 +137,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Semi-tracked%20truck%20with%20a%20cannon/Semi-tracked%20truck%20with%20a%20cannon.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Semi-tracked%20truck%20with%20a%20cannon/Semi-tracked%20truck%20with%20a%20cannon.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":14,
@@ -145,7 +145,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Semitrailer%20truck/Semitrailer%20truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Semitrailer%20truck/Semitrailer%20truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":15,
@@ -153,7 +153,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/SWAT%20Truck/SWAT%20Truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/SWAT%20Truck/SWAT%20Truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":16,
@@ -161,7 +161,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Tow%20truck/Tow%20truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Tow%20truck/Tow%20truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":17,
@@ -169,7 +169,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Tow%20truck%202/Tow%20truck%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Tow%20truck%202/Tow%20truck%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":18,
@@ -177,7 +177,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Tow%20Truck%203/Tow%20Truck%203.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Tow%20Truck%203/Tow%20Truck%203.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":19,
@@ -185,7 +185,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Trailer%20truck/Trailer%20truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Trailer%20truck/Trailer%20truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":20,
@@ -193,7 +193,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Trailer%20Truck%202/Trailer%20Truck%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Trailer%20Truck%202/Trailer%20Truck%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":21,
@@ -201,7 +201,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Truck%20Large/Truck%20Large.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Truck%20Large/Truck%20Large.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":22,
@@ -209,7 +209,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Truck%20Magnet/Truck%20Magnet.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Truck%20Magnet/Truck%20Magnet.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":23,
@@ -217,7 +217,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Truck%20MAN/Truck%20MAN.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Truck%20MAN/Truck%20MAN.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":24,
@@ -225,7 +225,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Truck%20Mercedes%20Actros/Truck%20Mercedes%20Actros.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Truck%20Mercedes%20Actros/Truck%20Mercedes%20Actros.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":25,
@@ -233,7 +233,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Truck%20MG/Truck%20MG.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Truck%20MG/Truck%20MG.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":26,
@@ -241,7 +241,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Truck%20pack/Truck%20pack.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Truck%20pack/Truck%20pack.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":27,
@@ -249,7 +249,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/Truck%20with%20trailer/Truck%20with%20trailer.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/Truck%20with%20trailer/Truck%20with%20trailer.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":28,
@@ -257,7 +257,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Truck/ZIL%20truck/ZIL%20truck.jpg",
     "download":"https://aweu.net/2023/Ginura/Truck/ZIL%20truck/ZIL%20truck.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
   ]
 }
