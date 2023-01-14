@@ -41,7 +41,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Godzilla/Deinosuchus/Deinosuchus.jpg",
       "download":"https://aweu.net/2023/Ginura/Godzilla/Deinosuchus/Deinosuchus.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":2,
@@ -49,7 +49,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Godzilla/Godzilla/Godzilla.jpg",
       "download":"https://aweu.net/2023/Ginura/Godzilla/Godzilla/Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":3,
@@ -57,7 +57,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Godzilla/Godzilla%202/Godzilla%202.jpg",
       "download":"https://aweu.net/2023/Ginura/Godzilla/Godzilla%202/Godzilla%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
    },
    {
     "id":4,
@@ -65,7 +65,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Godzilla%203/Godzilla%203.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Godzilla%203/Godzilla%203.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":5,
@@ -73,7 +73,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Godzilla%202023/Godzilla%202023.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Godzilla%202023/Godzilla%202023.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":6,
@@ -81,7 +81,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Godzilla%20Ultima/Godzilla%20Ultima.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Godzilla%20Ultima/Godzilla%20Ultima.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":7,
@@ -89,7 +89,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Huge%20Godzilla/Huge%20Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Huge%20Godzilla/Huge%20Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":8,
@@ -97,7 +97,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Jormungandr/Jormungandr.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Jormungandr/Jormungandr.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":9,
@@ -105,7 +105,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/JORMUNGANDR%202/JORMUNGANDR%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/JORMUNGANDR%202/JORMUNGANDR%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":10,
@@ -113,7 +113,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/King%20Kong/King%20Kong.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/King%20Kong/King%20Kong.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":11,
@@ -121,7 +121,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Kiryu%20Godzilla/Kiryu%20Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Kiryu%20Godzilla/Kiryu%20Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":12,
@@ -129,7 +129,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Macha%20Godzilla/Macha%20Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Macha%20Godzilla/Macha%20Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":13,
@@ -137,7 +137,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Mech%20Godzilla/Mech%20Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Mech%20Godzilla/Mech%20Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":14,
@@ -145,7 +145,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Mecha%20Godzilla/Mecha%20Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Mecha%20Godzilla/Mecha%20Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":15,
@@ -153,7 +153,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Mecha%20Godzilla%202/Mecha%20Godzilla%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Mecha%20Godzilla%202/Mecha%20Godzilla%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":16,
@@ -161,7 +161,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Shin%20Godzilla/Shin%20Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Shin%20Godzilla/Shin%20Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":17,
@@ -169,7 +169,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/Skull%20Crawler/Skull%20Crawler.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/Skull%20Crawler/Skull%20Crawler.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":18,
@@ -177,7 +177,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/The%20in%20Godzilla/The%20in%20Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/The%20in%20Godzilla/The%20in%20Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":19,
@@ -185,7 +185,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/The%20in%20Indominus%20Rex/The%20in%20Indominus%20Rex.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/The%20in%20Indominus%20Rex/The%20in%20Indominus%20Rex.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":20,
@@ -193,7 +193,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/The%20in%20King%20Ghidorah/The%20in%20King%20Ghidorah.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/The%20in%20King%20Ghidorah/The%20in%20King%20Ghidorah.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":21,
@@ -201,7 +201,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Godzilla/The%20in%20Shin%20Godzilla/The%20in%20Shin%20Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Godzilla/The%20in%20Shin%20Godzilla/The%20in%20Shin%20Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
   ]
 }
