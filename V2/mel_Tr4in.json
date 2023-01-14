@@ -41,7 +41,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Train/High-speed%20train/High-speed%20train.jpg",
       "download":"https://aweu.net/2023/Ginura/Train/High-speed%20train/High-speed%20train.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":2,
@@ -49,7 +49,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Train/Iron%20travel/Iron%20travel.jpg",
       "download":"https://aweu.net/2023/Ginura/Train/Iron%20travel/Iron%20travel.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":3,
@@ -57,7 +57,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Train/Metro/Metro.jpg",
       "download":"https://aweu.net/2023/Ginura/Train/Metro/Metro.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
    },
    {
     "id":4,
@@ -65,7 +65,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Sasha%20Bratin/Sasha%20Bratin.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Sasha%20Bratin/Sasha%20Bratin.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":5,
@@ -73,7 +73,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Steam%20train/Steam%20train.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Steam%20train/Steam%20train.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":6,
@@ -81,7 +81,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Subway%20Train/Subway%20Train.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Subway%20Train/Subway%20Train.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":7,
@@ -89,7 +89,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train/Train.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train/Train.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":8,
@@ -97,7 +97,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train%202/Train%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train%202/Train%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":9,
@@ -105,7 +105,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train%203/Train%203.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train%203/Train%203.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":10,
@@ -113,7 +113,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train%204/Train%204.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train%204/Train%204.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":11,
@@ -121,7 +121,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train%205/Train%205.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train%205/Train%205.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":12,
@@ -129,7 +129,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train%206/Train%206.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train%206/Train%206.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":13,
@@ -137,7 +137,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train%20and%20Wagon/Train%20and%20Wagon.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train%20and%20Wagon/Train%20and%20Wagon.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":14,
@@ -145,7 +145,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train%20Mod/Train%20Mod.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train%20Mod/Train%20Mod.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":15,
@@ -153,7 +153,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Train/Train%20With%20Wagons/Train%20With%20Wagons.jpg",
     "download":"https://aweu.net/2023/Ginura/Train/Train%20With%20Wagons/Train%20With%20Wagons.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
   ]
 }
