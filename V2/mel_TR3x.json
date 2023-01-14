@@ -41,7 +41,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Trex/New%20T-Rex/New%20T-Rex.jpg",
       "download":"https://aweu.net/2023/Ginura/Trex/New%20T-Rex/New%20T-Rex.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":2,
@@ -49,7 +49,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Trex/Rebuild%20T-rex/Rebuild%20T-rex.jpg",
       "download":"https://aweu.net/2023/Ginura/Trex/Rebuild%20T-rex/Rebuild%20T-rex.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":3,
@@ -57,7 +57,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Trex/Rebuild%20Tyrannosaurus%20Rex/Rebuild%20Tyrannosaurus%20Rex.jpg",
       "download":"https://aweu.net/2023/Ginura/Trex/Rebuild%20Tyrannosaurus%20Rex/rebuild%20trex%E2%80%8B.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
    },
    {
     "id":4,
@@ -65,7 +65,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/T-Rex/T-Rex.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/T-Rex/T-Rex.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":5,
@@ -73,7 +73,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/T-rex%202/T-rex%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/T-rex%202/T-rex%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":6,
@@ -81,7 +81,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/T-rex%20at%20Melon/T-rex%20at%20Melon.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/T-rex%20at%20Melon/T-rex%20at%20Melon.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":7,
@@ -89,7 +89,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/T-Rex%20Mod/T-Rex%20Mod.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/T-Rex%20Mod/T-Rex%20Mod.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":8,
@@ -97,7 +97,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Reaper%20Leviathan/Reaper%20Leviathan.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Reaper%20Leviathan/Reaper%20Leviathan.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":9,
@@ -105,7 +105,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Sea%20Monster/Sea%20Monster.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Sea%20Monster/Sea%20Monster.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":10,
@@ -113,7 +113,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Siren%20Head/Siren%20Head.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Siren%20Head/Siren%20Head.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":11,
@@ -121,7 +121,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Spinosaurus/Spinosaurus.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Spinosaurus/Spinosaurus.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":12,
@@ -129,7 +129,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Spinosaurus%20vs%20Tyrannosaurus%20Rex/Spinosaurus%20vs%20Tyrannosaurus%20Rex.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Spinosaurus%20vs%20Tyrannosaurus%20Rex/Spinosaurus%20vs%20Tyrannosaurus%20Rex.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":13,
@@ -137,7 +137,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Bridge%20Worm/Bridge%20Worm.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Bridge%20Worm/Bridge%20Worm.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":14,
@@ -145,7 +145,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Crocodile/Crocodile.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Crocodile/Crocodile.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":15,
@@ -153,7 +153,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Giant%20Centipedes/Giant%20Centipedes.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Giant%20Centipedes/Giant%20Centipedes.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":16,
@@ -161,7 +161,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Giant%20Mantis/Giant%20Mantis.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Giant%20Mantis/Giant%20Mantis.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":17,
@@ -169,7 +169,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Giant%20Minipede/Giant%20Minipede.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Giant%20Minipede/Giant%20Minipede.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":18,
@@ -177,7 +177,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Giant%20Scorpions/Giant%20Scorpions.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Giant%20Scorpions/Giant%20Scorpions.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":19,
@@ -185,7 +185,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Godzilla/Godzilla.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Godzilla/Godzilla.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":20,
@@ -193,7 +193,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Golem/Golem.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Golem/Golem.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":21,
@@ -201,7 +201,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Loch%20Ness%20monster/Loch%20Ness%20monster.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Loch%20Ness%20monster/Loch%20Ness%20monster.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":22,
@@ -209,7 +209,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Long%20Horse/Long%20Horse.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Long%20Horse/Long%20Horse.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":23,
@@ -217,7 +217,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Megalodon%20melon/Megalodon%20melon.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Megalodon%20melon/Megalodon%20melon.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":24,
@@ -225,7 +225,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Megalodon%20v2/Megalodon%20v2.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Megalodon%20v2/Megalodon%20v2.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":25,
@@ -233,7 +233,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/The%20Giant%20worm/The%20Giant%20worm.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/The%20Giant%20worm/The%20Giant%20worm.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":26,
@@ -241,7 +241,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/The%20Great%20White%20Shark/The%20Great%20White%20Shark.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/The%20Great%20White%20Shark/The%20Great%20White%20Shark.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":27,
@@ -249,7 +249,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Titanoboa/Titanoboa.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Titanoboa/Titanoboa.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":28,
@@ -257,7 +257,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Trex%20mod/Trex%20mod.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Trex%20mod/Trex%20mod.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":29,
@@ -265,7 +265,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Tyrannosaurus/Tyrannosaurus.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Tyrannosaurus/Tyrannosaurus.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":30,
@@ -273,7 +273,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Trex/Whale/Whale.jpg",
     "download":"https://aweu.net/2023/Ginura/Trex/Whale/Whale.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
   ]
 }
