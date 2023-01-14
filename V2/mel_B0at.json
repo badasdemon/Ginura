@@ -41,7 +41,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bismark/Bismark.jpg",
       "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bismark/Bismark.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":2,
@@ -49,7 +49,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bison/Bison.jpg",
       "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Bison/Bison.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
     },
     {
       "id":3,
@@ -57,7 +57,7 @@
       "category":"Mods",
       "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat/Boat.jpg",
       "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat/Boat.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
    },
    {
     "id":4,
@@ -65,7 +65,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%202/Boat%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%202/Boat%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":5,
@@ -73,7 +73,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%203/Boat%203.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%203/Boat%203.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":6,
@@ -81,7 +81,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%204/Boat%204.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%204/Boat%204.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":7,
@@ -89,7 +89,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%205/Boat%205.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%205/Boat%205.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":8,
@@ -97,7 +97,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%206/Boat%206.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%206/Boat%206.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":9,
@@ -105,7 +105,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%20Soldiers/Boat%20Soldiers.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Boat%20Soldiers/Boat%20Soldiers.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":10,
@@ -113,7 +113,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Eugene%20ship/Eugene%20ship.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Eugene%20ship/Eugene%20ship.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":11,
@@ -121,7 +121,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Fishing%20Boat/Fishing%20Boat.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Fishing%20Boat/Fishing%20Boat.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":12,
@@ -129,7 +129,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Huge%20Ship/Huge%20Ship.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Huge%20Ship/Huge%20Ship.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":13,
@@ -137,7 +137,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Nuclear%20Submarine/Nuclear%20Submarine.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Nuclear%20Submarine/Nuclear%20Submarine.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":14,
@@ -145,7 +145,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pack%20by%20boats/Pack%20by%20boats.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pack%20by%20boats/Pack%20by%20boats.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":15,
@@ -153,7 +153,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirate%20Ship/Pirate%20Ship.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirate%20Ship/Pirate%20Ship.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":16,
@@ -161,7 +161,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirate%20Ship%202/Pirate%20Ship%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirate%20Ship%202/Pirate%20Ship%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":17,
@@ -169,7 +169,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirates%20Boat/Pirates%20Boat.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Pirates%20Boat/Pirates%20Boat.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":18,
@@ -177,7 +177,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Portal%20Boat/Portal%20Boat.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Portal%20Boat/Portal%20Boat.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":19,
@@ -185,7 +185,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Ship/Ship.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Ship/Ship.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":20,
@@ -193,7 +193,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Ship%202/Ship%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Ship%202/Ship%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":21,
@@ -201,7 +201,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Small%20Military%20Boat/Small%20Military%20Boat.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Small%20Military%20Boat/Small%20Military%20Boat.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":22,
@@ -209,7 +209,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine/Submarine.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine/Submarine.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":23,
@@ -217,7 +217,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20-%20PP90-PL/Submarine%20-%20PP90-PL.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20-%20PP90-PL/Submarine%20-%20PP90-PL.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":24,
@@ -225,7 +225,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%202/Submarine%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%202/Submarine%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":25,
@@ -233,7 +233,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Beta%20version/Submarine%20Beta%20version.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Beta%20version/Submarine%20Beta%20version.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":26,
@@ -241,7 +241,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Mod/Submarine%20Mod.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Mod/Submarine%20Mod.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":27,
@@ -249,7 +249,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Mod%202/Submarine%20Mod%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Mod%202/Submarine%20Mod%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":28,
@@ -257,7 +257,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Seamoth/Submarine%20Seamoth.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Submarine%20Seamoth/Submarine%20Seamoth.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":29,
@@ -265,7 +265,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Titanic/Titanic.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Titanic/Titanic.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":30,
@@ -273,7 +273,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/USSR%20ship%20Aurora/USSR%20ship%20Aurora.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/USSR%20ship%20Aurora/USSR%20ship%20Aurora.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":31,
@@ -281,7 +281,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/VECTOR%20EPS%2010/VECTOR%20EPS%2010.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/VECTOR%20EPS%2010/VECTOR%20EPS%2010.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":32,
@@ -289,7 +289,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship/Warship.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship/Warship.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":33,
@@ -297,7 +297,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%202/Warship%202.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%202/Warship%202.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":34,
@@ -305,7 +305,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%203/Warship%203.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%203/Warship%203.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":35,
@@ -313,7 +313,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%204/Warship%204.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%204/Warship%204.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":36,
@@ -321,7 +321,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%205/Warship%205.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%205/Warship%205.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":37,
@@ -329,7 +329,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%206/Warship%206.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Warship%206/Warship%206.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":38,
@@ -337,7 +337,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Yacht/Yacht.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/Yacht/Yacht.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   },
   {
     "id":39,
@@ -345,7 +345,7 @@
     "category":"Mods",
     "image":"https://aweu.net/2023/Ginura/Kloter%202/Boat/%D0%9C%D0%A0%D0%9A%2012300/%D0%9C%D0%A0%D0%9A%2012300.jpg",
     "download":"https://aweu.net/2023/Ginura/Kloter%202/Boat/%D0%9C%D0%A0%D0%9A%2012300/%D0%9C%D0%A0%D0%9A%2012300.zip",
-      "description":"https://aweu.net/2023/Ginura/ueue.html"
+      "description":"file:///android_asset/ueue.html"
   }
   ]
 }
