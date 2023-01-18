@@ -268,5 +268,174 @@
     "download":"https://aweu.net/2023/Ginura/Helicopter/Two%20Uh1/Two%20Uh1.zip",
       "description":"file:///android_asset/ueue.html"
   }
+     ,
+  {
+    "id":30,
+    "name":"Aircraft B17",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Helicopter/UPDATE/Aircraft%20B17/Aircraft%20B17.jpg",
+    "download":"https://aweu.net/2023/Ginura/Helicopter/UPDATE/Aircraft%20B17/Aircraft%20B17.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+	{
+		"id": 31,
+		"name": "Aircraft with hydraulic nozzle",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Aircraft%20with%20hydraulic%20nozzle/Aircraft%20with%20hydraulic%20nozzle.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Aircraft%20with%20hydraulic%20nozzle/Aircraft%20with%20hydraulic%20nozzle.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 32,
+		"name": "AN-124",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/AN-124/AN-124.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/AN-124/AN-124.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 33,
+		"name": "Boeing 747",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Boeing%20747/Boeing%20747.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Boeing%20747/Boeing%20747.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 34,
+		"name": "Boeing 787-8",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Boeing%20787-8/Boeing%20787-8.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Boeing%20787-8/Boeing%20787-8.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 35,
+		"name": "Bomber - JU87",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Bomber%20-%20JU87/Bomber%20-%20JU87.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Bomber%20-%20JU87/Bomber%20-%20JU87.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 36,
+		"name": "Civil Aircraft Pack",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Civil%20Aircraft%20Pack/Civil%20Aircraft%20Pack.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Civil%20Aircraft%20Pack/Civil%20Aircraft%20Pack.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 37,
+		"name": "Eurocopter as.350",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Eurocopter%20as.350/Eurocopter%20as.350.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Eurocopter%20as.350/Eurocopter%20as.350.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 38,
+		"name": "F16 Fighting Falcon",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/F16%20Fighting%20Falcon/F16%20Fighting%20Falcon.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 39,
+		"name": "FA-18EF Super Hornet",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/FA-18EF%20Super%20Hornet/FA-18EF%20Super%20Hornet.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/FA-18EF%20Super%20Hornet/FA-18EF%20Super%20Hornet.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 40,
+		"name": "Fighter I-15 bis",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Fighter%20I-15%20bis/Fighter%20I-15%20bis.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Fighter%20I-15%20bis/Fighter%20I-15%20bis.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 41,
+		"name": "Improved Atomic Bomb",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Improved%20Atomic%20Bomb/Improved%20Atomic%20Bomb.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Improved%20Atomic%20Bomb/Improved%20Atomic%20Bomb.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 42,
+		"name": "Jet  - KC RG",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Jet%20%20-%20KC%20RG/Jet%20%20-%20KC%20RG.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Jet%20%20-%20KC%20RG/Jet%20%20-%20KC%20RG.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 43,
+		"name": "Medium bomber",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Medium%20bomber/Medium%20bomber.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Medium%20bomber/Medium%20bomber.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 44,
+		"name": "Neo IS-10 fighter",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Neo%20IS-10%20fighter/Neo%20IS-10%20fighter.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Neo%20IS-10%20fighter/Neo%20IS-10%20fighter.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 45,
+		"name": "Su 30CM",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Su%2030CM/Su%2030CM.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Su%2030CM/SU%2030SM%E2%80%8B.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 46,
+		"name": "Su57 - Felon",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Su57%20-%20Felon/Su57%20-%20Felon.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/Su57%20-%20Felon/Su57%20Felon%E2%80%8B.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 47,
+		"name": "UAV Blighter",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/UAV%20Blighter/UAV%20Blighter.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/UAV%20Blighter/UAV%20Blighter%E2%80%8B.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 48,
+		"name": "UAV Destroyer",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/UAV%20Destroyer/UAV%20Destroyer.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/UAV%20Destroyer/UAV%20Destroyer%E2%80%8B.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 49,
+		"name": "UAV Evgeshadrone",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/UAV%20Evgeshadrone/UAV%20Evgeshadrone.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/UAV%20Evgeshadrone/UAV%20Evgeshadrone%E2%80%8B.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 50,
+		"name": "UAV Obliterator",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/UAV%20Obliterator/UAV%20Obliterator.jpg",
+		"download": "https://aweu.net/2023/Ginura/Helicopter/UPDATE/UAV%20Obliterator/UAV%20Obliterator.zip",
+		"description": "file:///android_asset/ueue.html"
+	}
   ]
 }
