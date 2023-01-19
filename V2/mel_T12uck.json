@@ -259,5 +259,62 @@
     "download":"https://aweu.net/2023/Ginura/Truck/ZIL%20truck/ZIL%20truck.zip",
       "description":"file:///android_asset/ueue.html"
   }
+    ,
+  {
+    "id":29,
+    "name":"Armored Truck - Flak 8.8",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Truck/UPDATE/Armored%20Truck%20-%20Flak%208.8/Armored%20Truck%20-%20Flak%208.8.jpg",
+    "download":"https://aweu.net/2023/Ginura/Truck/UPDATE/Armored%20Truck%20-%20Flak%208.8/Armored%20Truck%20-%20Flak%208.8.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+	{
+		"id": 30,
+		"name": "Fire engine zil",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Truck/UPDATE/Fire%20engine%20zil/Fire%20engine%20zil.jpg",
+		"download": "https://aweu.net/2023/Ginura/Truck/UPDATE/Fire%20engine%20zil/Fire%20engine%20zil.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 31,
+		"name": "MTZ 80",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Truck/UPDATE/MTZ%2080/MTZ%2080.jpg",
+		"download": "https://aweu.net/2023/Ginura/Truck/UPDATE/MTZ%2080/MTZ%2080.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 32,
+		"name": "Pack on KAMAZ",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Truck/UPDATE/Pack%20on%20KAMAZ/Pack%20on%20KAMAZ.jpg",
+		"download": "https://aweu.net/2023/Ginura/Truck/UPDATE/Pack%20on%20KAMAZ/Pack%20on%20KAMAZ.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 33,
+		"name": "Taran",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Truck/UPDATE/Taran/Taran.jpg",
+		"download": "https://aweu.net/2023/Ginura/Truck/UPDATE/Taran/Taran.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 34,
+		"name": "Tow truck SIMKA 6000",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Truck/UPDATE/Tow%20truck%20SIMKA%206000/Tow%20truck%20SIMKA%206000.jpg",
+		"download": "https://aweu.net/2023/Ginura/Truck/UPDATE/Tow%20truck%20SIMKA%206000/Tow%20truck%20SIMKA%206000.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 35,
+		"name": "Truck – Opel Blitz",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Truck/UPDATE/Truck%20%E2%80%93%20Opel%20Blitz/Truck%20%E2%80%93%20Opel%20Blitz.jpg",
+		"download": "https://aweu.net/2023/Ginura/Truck/UPDATE/Truck%20%E2%80%93%20Opel%20Blitz/Truck%20%E2%80%93%20Opel%20Blitz.zip",
+		"description": "file:///android_asset/ueue.html"
+	}
   ]
 }
