@@ -227,5 +227,94 @@
     "download":"https://aweu.net/2023/Ginura/Swat/Special%20forces%2C%20SWAT%2C%20riot%20police/Special%20forces%2C%20SWAT%2C%20riot%20police.zip",
       "description":"file:///android_asset/ueue.html"
   }
+    ,
+  {
+    "id":25,
+    "name":"Helmet from Call Of Duty",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Swat/UPDATE/Helmet%20from%20Call%20Of%20Duty/Helmet%20from%20Call%20Of%20Duty.jpg",
+    "download":"https://aweu.net/2023/Ginura/Swat/UPDATE/Helmet%20from%20Call%20Of%20Duty/Helmet%20from%20Call%20Of%20Duty.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+	{
+		"id": 26,
+		"name": "Military USMS",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/Military%20USMS/Military%20USMS.jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/Military%20USMS/Military%20USMS.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 27,
+		"name": "Mod for winter soldier 2",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/Mod%20for%20winter%20soldier%202/Mod%20for%20winter%20soldier%202.jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/Mod%20for%20winter%20soldier%202/Mod%20for%20winter%20soldier%202.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 28,
+		"name": "Soldier",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/Soldier/Soldier.jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/Soldier/Soldier.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 29,
+		"name": "Soldier (Second Version)",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/Soldier%20(Second%20Version)/Soldier%20(Second%20Version).jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/Soldier%20(Second%20Version)/Soldier%20(Second%20Version).zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 30,
+		"name": "Soldier (Third version)",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/Soldier%20(Third%20version)/Soldier%20(Third%20version).jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/Soldier%20(Third%20version)/Soldier%20(Third%20version).zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 31,
+		"name": "Soldier 2",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/Soldier%202/Soldier%202.jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/Soldier%202/Soldier%202.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 32,
+		"name": "Winter Soldiers Pack",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/Winter%20Soldiers%20Pack/Winter%20Soldiers%20Pack.jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/Winter%20Soldiers%20Pack/Winter%20Soldiers%20Pack.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 33,
+		"name": "Two Marines",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/Two%20Marines/Two%20Marines.jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/Two%20Marines/Two%20Marines.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 34,
+		"name": "UN peacekeeper",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/UN%20peacekeeper/UN%20peacekeeper.jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/UN%20peacekeeper/UN%20peacekeeper.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 35,
+		"name": "USMS Medic",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Swat/UPDATE/USMS%20Medic/USMS%20Medic.jpg",
+		"download": "https://aweu.net/2023/Ginura/Swat/UPDATE/USMS%20Medic/USMS%20Medic.zip",
+		"description": "file:///android_asset/ueue.html"
+	}
   ]
 }
