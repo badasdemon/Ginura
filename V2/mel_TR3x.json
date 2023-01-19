@@ -275,5 +275,46 @@
     "download":"https://aweu.net/2023/Ginura/Trex/Whale/Whale.zip",
       "description":"file:///android_asset/ueue.html"
   }
+    ,
+  {
+    "id":31,
+    "name":"Kiryu",
+    "category":"Mods",
+    "image":"https://aweu.net/2023/Ginura/Trex/UPDATE/Kiryu/Kiryu.jpg",
+    "download":"https://aweu.net/2023/Ginura/Trex/UPDATE/Kiryu/Kiryu.zip",
+      "description":"file:///android_asset/ueue.html"
+  },
+	{
+		"id": 32,
+		"name": "Raptor",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Trex/UPDATE/Raptor/Raptor.jpg",
+		"download": "https://aweu.net/2023/Ginura/Trex/UPDATE/Raptor/Raptor.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 33,
+		"name": "RAPTOR DELTA",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Trex/UPDATE/RAPTOR%20DELTA/RAPTOR%20DELTA.jpg",
+		"download": "https://aweu.net/2023/Ginura/Trex/UPDATE/RAPTOR%20DELTA/RAPTOR%20DELTA.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 34,
+		"name": "SCRAPPER MOD",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Trex/UPDATE/SCRAPPER%20MOD/SCRAPPER%20MOD.jpg",
+		"download": "https://aweu.net/2023/Ginura/Trex/UPDATE/SCRAPPER%20MOD/SCRAPPER%20MOD.zip",
+		"description": "file:///android_asset/ueue.html"
+	},
+	{
+		"id": 35,
+		"name": "WARBAT",
+		"category": "Mods",
+		"image": "https://aweu.net/2023/Ginura/Trex/UPDATE/WARBAT/WARBAT.jpg",
+		"download": "https://aweu.net/2023/Ginura/Trex/UPDATE/WARBAT/WARBAT.zip",
+		"description": "file:///android_asset/ueue.html"
+	}
   ]
 }
