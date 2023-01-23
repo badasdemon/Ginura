@@ -1,143 +1,384 @@
 {
-  "Ads": [
-    {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"IRON",
-      "main_ads_banner": "ca-app-pub-1437241986629219/4172745075",
-      "main_ads_intertitial":"ca-app-pub-1437241986629219/7569064609",
-      "main_ads_natives":"ca-app-pub-1437241986629219/9762616129",
-      "backup_ads_banner":"qwert12345",
-      "backup_ads_intertitial":"qwert12345",
-      "backup_ads_natives":"qwert12345",
-      "open_ads_admob":"ca-app-pub-1437241986629219/3537524097",
-      "switch_banner_natives":"1",
-      "on_off_native_listview":"1",
-      "interval_intertitial": 1,
-      "initialize_sdk":"17f7b3c35",
-      "initialize_sdk_backup_ads":"17f7b3c35",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-    }
-  ],"Categories":
-  [
-    {
-    "category":"All Mods"
-  },{
-    "category":"Mods"
-  },{
-    "category":"Other Mods"
-  }
-  ],
-  "Mods":
-  [
-    {
-      "id":1,
-      "name":"Bunker in case of a zombie apocalypse",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/Ginura/Zombie/Bunker%20in%20case%20of%20a%20zombie%20apocalypse/Bunker%20in%20case%20of%20a%20zombie%20apocalypse.jpg",
-      "download":"https://aweu.net/2023/Ginura/Zombie/Bunker%20in%20case%20of%20a%20zombie%20apocalypse/Bunker%20in%20case%20of%20a%20zombie%20apocalypse.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-    {
-      "id":2,
-      "name":"Captain America Zombie",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/Ginura/Zombie/Captain%20America%20Zombie/Captain%20America%20Zombie.jpg",
-      "download":"https://aweu.net/2023/Ginura/Zombie/Captain%20America%20Zombie/Captain%20America%20Zombie.zip",
-      "description":"file:///android_asset/ueue.html"
-    },
-    {
-      "id":3,
-      "name":"Dead Cells",
-      "category":"Mods",
-      "image":"https://aweu.net/2023/Ginura/Zombie/Dead%20Cells/Dead%20Cells.jpg",
-      "download":"https://aweu.net/2023/Ginura/Zombie/Dead%20Cells/Dead%20Cells.zip",
-      "description":"file:///android_asset/ueue.html"
-   },
-   {
-    "id":4,
-    "name":"Gargantua",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/Gargantua/Gargantua.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/Gargantua/Gargantua.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":5,
-    "name":"Jason Voorhees",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/Jason%20Voorhees/Jason%20Voorhees.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/Jason%20Voorhees/Jason%20Voorhees.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":6,
-    "name":"Melon-Z",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/Melon-Z/Melon-Z.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/Melon-Z/Melon-Z.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":7,
-    "name":"World Zombie",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/World%20Zombie/World%20Zombie.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/World%20Zombie/World%20Zombie.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":8,
-    "name":"WTF zombie factorу",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/WTF%20zombie%20factor%D1%83/WTF%20zombie%20factor%D1%83.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/WTF%20zombie%20factor%D1%83/WTF%20zombie%20factor%D1%83.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":9,
-    "name":"Zombie Apocalypse",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/Zombie%20Apocalypse/Zombie%20Apocalypse.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/Zombie%20Apocalypse/Zombie%20Apocalypse.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":10,
-    "name":"Zombie from PPG",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/Zombie%20from%20PPG/Zombie%20from%20PPG.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/Zombie%20from%20PPG/Zombie%20from%20PPG.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":11,
-    "name":"Zombie mark 3",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/Zombie%20mark%203/Zombie%20mark%203.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/Zombie%20mark%203/Zombie%20mark%203.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":12,
-    "name":"Zombie melon",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/Zombie%20melon/Zombie%20mark%203.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/Zombie%20melon/Zombie%20mark%203.zip",
-      "description":"file:///android_asset/ueue.html"
-  },
-  {
-    "id":13,
-    "name":"Zombie-Dancer",
-    "category":"Mods",
-    "image":"https://aweu.net/2023/Ginura/Zombie/Zombie-Dancer/Zombie-Dancer.jpg",
-    "download":"https://aweu.net/2023/Ginura/Zombie/Zombie-Dancer/Zombie-Dancer.zip",
-      "description":"file:///android_asset/ueue.html"
-  }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "IRON",
+			"main_ads_banner": "ca-app-pub-1437241986629219/4172745075",
+			"main_ads_intertitial": "ca-app-pub-1437241986629219/7569064609",
+			"main_ads_natives": "ca-app-pub-1437241986629219/9762616129",
+			"backup_ads_banner": "qwert12345",
+			"backup_ads_intertitial": "qwert12345",
+			"backup_ads_natives": "qwert12345",
+			"open_ads_admob": "ca-app-pub-1437241986629219/3537524097",
+			"switch_banner_natives": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 1,
+			"initialize_sdk": "17f7b3c35",
+			"initialize_sdk_backup_ads": "17f7b3c35",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"category": "All Mods"
+		},
+		{
+			"category": "Mods"
+		},
+		{
+			"category": "Other Mods"
+		}
+	],
+	"Mods": [
+		{
+			"id": 1,
+			"name": "Bunker in case of a zombie apocalypse",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Bunker%20in%20case%20of%20a%20zombie%20apocalypse/Bunker%20in%20case%20of%20a%20zombie%20apocalypse.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Bunker%20in%20case%20of%20a%20zombie%20apocalypse/Bunker%20in%20case%20of%20a%20zombie%20apocalypse.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 2,
+			"name": "Captain America Zombie",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Captain%20America%20Zombie/Captain%20America%20Zombie.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Captain%20America%20Zombie/Captain%20America%20Zombie.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 3,
+			"name": "Dead Cells",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Dead%20Cells/Dead%20Cells.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Dead%20Cells/Dead%20Cells.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 4,
+			"name": "Gargantua",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Gargantua/Gargantua.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Gargantua/Gargantua.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 5,
+			"name": "Jason Voorhees",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Jason%20Voorhees/Jason%20Voorhees.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Jason%20Voorhees/Jason%20Voorhees.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 6,
+			"name": "Melon-Z",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Melon-Z/Melon-Z.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Melon-Z/Melon-Z.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 7,
+			"name": "World Zombie",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/World%20Zombie/World%20Zombie.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/World%20Zombie/World%20Zombie.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 8,
+			"name": "WTF zombie factorу",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/WTF%20zombie%20factor%D1%83/WTF%20zombie%20factor%D1%83.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/WTF%20zombie%20factor%D1%83/WTF%20zombie%20factor%D1%83.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 9,
+			"name": "Zombie Apocalypse",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Zombie%20Apocalypse/Zombie%20Apocalypse.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Zombie%20Apocalypse/Zombie%20Apocalypse.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 10,
+			"name": "Zombie from PPG",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Zombie%20from%20PPG/Zombie%20from%20PPG.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Zombie%20from%20PPG/Zombie%20from%20PPG.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 11,
+			"name": "Zombie mark 3",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Zombie%20mark%203/Zombie%20mark%203.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Zombie%20mark%203/Zombie%20mark%203.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 12,
+			"name": "Zombie melon",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Zombie%20melon/Zombie%20mark%203.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Zombie%20melon/Zombie%20mark%203.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 13,
+			"name": "Zombie-Dancer",
+			"category": "Mods",
+			"image": "https://aweu.net/2023/Ginura/Zombie/Zombie-Dancer/Zombie-Dancer.jpg",
+			"download": "https://aweu.net/2023/Ginura/Zombie/Zombie-Dancer/Zombie-Dancer.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 14,
+			"name": "2 distorted NPC",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/2%20distorted%20NPC.jpg",
+			"download": "https://ia904704.us.archive.org/12/items/zombiemods/2%20distorted%20NPC.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 15,
+			"name": "Brain cosmos",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Brain%20cosmos.jpg",
+			"download": "https://ia904704.us.archive.org/12/items/zombiemods/Brain%20cosmos.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 16,
+			"name": "Gargantua",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Gargantua.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/gargantua.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 17,
+			"name": "HEV",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/HEV.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/HEV.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 18,
+			"name": "Melonoid",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Melonoid.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/melonoid.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 19,
+			"name": "Realistic person",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Realistic%20person.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/realistic_people.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 20,
+			"name": "S.T.A.L.K.E.R",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/S.T.A.L.K.E.R.jpg",
+			"download": "https://ia904704.us.archive.org/12/items/zombiemods/STALKER.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 21,
+			"name": "bloomberg",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Screenshot_1.jpg",
+			"download": "https://ia904704.us.archive.org/12/items/zombiemods/bloomberg.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 22,
+			"name": "Werewolf",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Werewolf.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/Werewolf.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 23,
+			"name": "Zombie mark 3",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Zombie%20mark%203.jpg",
+			"download": "https://ia904704.us.archive.org/12/items/zombiemods/Zombie%20mark%203%20.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 24,
+			"name": "Zombie melon",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Zombie%20melon.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/Zombie%20melon.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 25,
+			"name": "Backstage Monster",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Backstage%20Monster.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/Backstage%20Monster.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 26,
+			"name": "Bone Monster",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Bone%20Monster.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/Bones.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 27,
+			"name": "Infected",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Infected.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/Infected.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 28,
+			"name": "Jason",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Jason.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/Jason.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 29,
+			"name": "Nightmare",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Nightmare.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/nightmare.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 30,
+			"name": "Reptiloid",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Reptiloid.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/reptiloid.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 31,
+			"name": "Scream",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Scream.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/scream.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 32,
+			"name": "Smiler",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Smiler.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/smiler%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 33,
+			"name": "Stalker",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/Stalker.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/stalker.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 34,
+			"name": "boxy",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/boxy.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/boxy%20boo%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 35,
+			"name": "crystalpurple",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/crystalpurple.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/crystalpurple.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 36,
+			"name": "granny",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/granny.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/granny.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 37,
+			"name": "huggy",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/huggy.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/huggy.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 38,
+			"name": "monsters",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/monsters.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/monsters%E2%80%8B.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 39,
+			"name": "pumpkin",
+			"category": "Mods",
+			"image": "https://archive.org/download/monstersimg/pumpkin.jpg",
+			"download": "https://ia904701.us.archive.org/6/items/monstermod/pumpkin.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 40,
+			"name": "SCP ModPack v1",
+			"category": "Mods",
+			"image": "https://archive.org/download/4_20220901_202209/1.jpg",
+			"download": "https://ia601505.us.archive.org/32/items/scpm-v-1.0/scp_modpack_v1_by_lazybone.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 41,
+			"name": "SCP ModPack v2",
+			"category": "Mods",
+			"image": "https://ia801509.us.archive.org/32/items/4_20220901_202209/2.jpg",
+			"download": "https://ia801505.us.archive.org/32/items/scpm-v-1.0/Scp_modpack_v2_by_lazybone-1.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 42,
+			"name": "SCP096",
+			"category": "Mods",
+			"image": "https://ia801509.us.archive.org/32/items/4_20220901_202209/3.png",
+			"download": "https://ia801505.us.archive.org/32/items/scpm-v-1.0/SCP096.zip",
+			"description": "file:///android_asset/ueue.html"
+		},
+		{
+			"id": 43,
+			"name": "Melon-Z",
+			"category": "Mods",
+			"image": "https://archive.org/download/zombieimg_202301/Melon-Z.jpg",
+			"download": "https://ia804704.us.archive.org/12/items/zombiemods/Melon-Z.zip",
+			"description": "file:///android_asset/ueue.html"
+		}
+	]
 }
