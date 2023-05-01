@@ -1,96 +1,527 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Country Humans",
+			"image": "https://aweu.net/MELONMASTER/Human/Country%20Humans/Country%20Humans.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Human/Country%20Humans/V%20Country%20Humans.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "CRUSH MAN",
+			"image": "https://aweu.net/MELONMASTER/Human/CRUSH%20MAN/CRUSH%20MAN.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Human/CRUSH%20MAN/V%20CRUSH%20MAN.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Dead Human",
+			"image": "https://aweu.net/MELONMASTER/Human/Dead%20Human/Dead%20Human.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Human/Dead%20Human/V%20Dead%20Human.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Human",
+			"image": "https://aweu.net/MELONMASTER/Human/Human/Human.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Human/Human/S%20human%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC - Humanoid People",
+			"image": "https://aweu.net/MELONMASTER/Human/NPC%20-%20Humanoid%20People/NPC%20-%20Humanoid%20People.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Human/NPC%20-%20Humanoid%20People/V%20people%20humen.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC in the form of a real person",
+			"image": "https://aweu.net/MELONMASTER/Human/NPC%20in%20the%20form%20of%20a%20real%20person/NPC%20in%20the%20form%20of%20a%20real%20person.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Human/NPC%20in%20the%20form%20of%20a%20real%20person/S%20NPC%20in%20the%20form%20of%20a%20real%20person.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC Man without clothes",
+			"image": "https://aweu.net/MELONMASTER/Human/NPC%20Man%20without%20clothes/NPC%20Man%20without%20clothes.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Human/NPC%20Man%20without%20clothes/V%20NPC%20Man%20without%20clothes.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPS - Henk",
+			"image": "https://aweu.net/MELONMASTER/Human/NPS%20-%20Henk/NPS%20-%20Henk.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Human/NPS%20-%20Henk/V%20NPS%20-%20Henk.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPS - Human",
+			"image": "https://aweu.net/MELONMASTER/Human/NPS%20-%20Human/NPS%20-%20Human.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Human/NPS%20-%20Human/V%20NPS%20-%20Human.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Real Human",
+			"image": "https://aweu.net/MELONMASTER/Human/Real%20Human/Real%20Human.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Human/Real%20Human/V%20Real%20Human.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Realistic person",
+			"image": "https://aweu.net/MELONMASTER/Human/Realistic%20person/Realistic%20person.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Human/Realistic%20person/V%20Realistic%20person.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Anvil",
+			"image": "https://aweu.net/MELONMASTER/Items/Anvil/Anvil.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Anvil/V%20Anvil.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bucksmod",
+			"image": "https://aweu.net/MELONMASTER/Items/Bucksmod/Screenshot_2.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Bucksmod/V%20bucksmod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Burger",
+			"image": "https://aweu.net/MELONMASTER/Items/Burger/Burger.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Burger/V%20Burger.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Butcher's knife",
+			"image": "https://aweu.net/MELONMASTER/Items/Butcher's%20knife/Butcher's%20knife.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Butcher's%20knife/V%20Butcher's%20knife.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Camera",
+			"image": "https://aweu.net/MELONMASTER/Items/Camera/Camera.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Camera/V%20Camera.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Colorful Bottles",
+			"image": "https://aweu.net/MELONMASTER/Items/Colorful%20Bottles/Colorful%20Bottles.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Colorful%20Bottles/V%20Colorful%20Bottles.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Construction Sticks",
+			"image": "https://aweu.net/MELONMASTER/Items/Construction%20Sticks/Construction%20Sticks.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Construction%20Sticks/V%20Construction%20Sticks.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Cube from Geometry Dash",
+			"image": "https://aweu.net/MELONMASTER/Items/Cube%20from%20Geometry%20Dash/Cube%20from%20Geometry%20Dash.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Cube%20from%20Geometry%20Dash/V%20Cube%20from%20Geometry%20Dash.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "D4C",
+			"image": "https://aweu.net/MELONMASTER/Items/D4C/D4C.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/D4C/V%20D4C.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Drinks Mod",
+			"image": "https://aweu.net/MELONMASTER/Items/Drinks%20Mod/Drinks%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Drinks%20Mod/V%20Drinks%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Drinks pack",
+			"image": "https://aweu.net/MELONMASTER/Items/Drinks%20pack/Drinks%20pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Drinks%20pack/V%20Drinks%20pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Flashlight",
+			"image": "https://aweu.net/MELONMASTER/Items/Flashlight/Flashlight.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Flashlight/V%20Flashlight.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Macbook",
+			"image": "https://aweu.net/MELONMASTER/Items/Macbook/Macbook.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Macbook/V%20Macbook.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mannequin",
+			"image": "https://aweu.net/MELONMASTER/Items/Mannequin/Mannequin.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Mannequin/V%20Mannequin.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Medications from S.T.A.L.K.E.R",
+			"image": "https://aweu.net/MELONMASTER/Items/Medications%20from%20S.T.A.L.K.E.R/Medications%20from%20S.T.A.L.K.E.R.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Medications%20from%20S.T.A.L.K.E.R/V%20Medications%20from%20S.T.A.L.K.E.R.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Money",
+			"image": "https://aweu.net/MELONMASTER/Items/Money/Money.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Money/V%20Money.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "More Vials",
+			"image": "https://aweu.net/MELONMASTER/Items/More%20Vials/More%20Vials.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/More%20Vials/V%20More%20Vials.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Notebook",
+			"image": "https://aweu.net/MELONMASTER/Items/Notebook/Notebook.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Notebook/V%20Notebook.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Old barrels",
+			"image": "https://aweu.net/MELONMASTER/Items/Old%20barrels/Old%20barrels.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Old%20barrels/V%20Old%20barrels.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pack with luminous",
+			"image": "https://aweu.net/MELONMASTER/Items/Pack%20with%20luminous/Pack%20with%20luminous.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Pack%20with%20luminous/V%20Pack%20with%20luminous.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Paint pack",
+			"image": "https://aweu.net/MELONMASTER/Items/Paint%20pack/Screenshot_1.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Paint%20pack/V%20paint%20pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Phone",
+			"image": "https://aweu.net/MELONMASTER/Items/Phone/Phone.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Phone/V%20Phone.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pumpkin",
+			"image": "https://aweu.net/MELONMASTER/Items/Pumpkin/Pumpkin.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Pumpkin/Pumpkin.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sandbag",
+			"image": "https://aweu.net/MELONMASTER/Items/Sandbag/Sandbag.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Sandbag/V%20Sandbag.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Soda drinks",
+			"image": "https://aweu.net/MELONMASTER/Items/Soda%20drinks/Soda%20drinks.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Soda%20drinks/V%20Soda%20drinks.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Terraria Axe",
+			"image": "https://aweu.net/MELONMASTER/Items/Terraria%20Axe/Terraria%20Axe.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Terraria%20Axe/V%20Terraria%20Axe.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Toy Cars",
+			"image": "https://aweu.net/MELONMASTER/Items/Toy%20Cars/Toy%20Cars.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Toy%20Cars/V%20Toy%20Cars.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Two hammers",
+			"image": "https://aweu.net/MELONMASTER/Items/Two%20hammers/Two%20hammers.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Two%20hammers/V%20Two%20hammers.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Two-Handed Hammer",
+			"image": "https://aweu.net/MELONMASTER/Items/Two-Handed%20Hammer/Screenshot_1.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Two-Handed%20Hammer/V%20TwoHanded%20Hammer.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Watermelon manikin",
+			"image": "https://aweu.net/MELONMASTER/Items/Watermelon%20manikin/Screenshot_2.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Watermelon%20manikin/V%20melon%20doll.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Welding machine Svarog",
+			"image": "https://aweu.net/MELONMASTER/Items/Welding%20machine%20Svarog/Welding%20machine%20Svarog.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Welding%20machine%20Svarog/S%20Welding%20machine%20Svarog.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Xiaomi12",
+			"image": "https://aweu.net/MELONMASTER/Items/Xiaomi12/Xiaomi12.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Items/Xiaomi12/V%20Xiaomi12.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "AKAINU + MAGMA SKILLS",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/AKAINU%20%2B%20MAGMA%20SKILLS/AKAINU%20%2B%20MAGMA%20SKILLS.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/AKAINU%20%2B%20MAGMA%20SKILLS/V%20AKAINU%20%2B%20MAGMA%20SKILLS.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Dio + Shadow The World, The world",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Dio%20%2B%20Shadow%20The%20World%2C%20The%20world/Dio%20%2B%20Shadow%20The%20World%2C%20The%20world.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Dio%20%2B%20Shadow%20The%20World%2C%20The%20world/V%20Dio%20%2B%20Shadow%20The%20World%2C%20The%20world.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Dio Jojo",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Dio%20jojo/Dio%20jojo.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Dio%20jojo/V%20Dio%20jojo.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Heaven Ascended Dio",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Heaven%20Ascended%20Dio/Heaven%20Ascended%20Dio.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Heaven%20Ascended%20Dio/R%20Heaven%20Ascended%20Dio.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Hybrid KAIDO",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Hybrid%20KAIDO/Hybrid%20KAIDO.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Hybrid%20KAIDO/R%20Hybrid%20KAIDO.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Jojo Bizarre Adventure",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20Bizarre%20Adventure/Jojo%20Bizarre%20Adventure.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20Bizarre%20Adventure/R%20Jojo%20Bizarre%20Adventure.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Jojo Bizarre Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20Bizarre%20Mod%20Pack/Jojo%20Bizarre%20Mod%20Pack.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20Bizarre%20Mod%20Pack/S%20Jojo%20Bizarre%20Mod%20Pack.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "JoJo Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/JoJo%20Mod%20Pack/JoJo%20Mod%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/JoJo%20Mod%20Pack/R%20JoJo%20Mod%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Jojo pack",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20pack/Jojo%20pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jojo%20pack/R%20Jojo%20pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Jotaro & Star Platinum V3",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jotaro%20%26%20Star%20Platinum%20V3/Jotaro%20%26%20Star%20Platinum%20V3.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jotaro%20%26%20Star%20Platinum%20V3/R%20Jotaro%20%26%20Star%20Platinum%20V3.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Jotaro + Star platinum",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jotaro%20%2B%20Star%20platinum/Jotaro%20%2B%20Star%20platinum.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Jotaro%20%2B%20Star%20platinum/R%20Jotaro%20%2B%20Star%20platinum.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Katakuri , Mogura + Mochi Skills",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Katakuri%20%2C%20Mogura%20%2B%20Mochi%20Skills/Katakuri%20%2C%20Mogura%20%2B%20Mochi%20Skills.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Katakuri%20%2C%20Mogura%20%2B%20Mochi%20Skills/R%20Katakuri%20%2C%20Mogura%20%2B%20Mochi%20Skills.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "kizaru + 4 Skills with Logia effect",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/kizaru%20%2B%204%20Skills%20with%20Logia%20effect/kizaru%20%2B%204%20Skills%20with%20Logia%20effect.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/kizaru%20%2B%204%20Skills%20with%20Logia%20effect/R%20kizaru%20%2B%204%20Skills%20with%20Logia%20effect.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Leopard Hybrid",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Leopard%20Hybrid/Leopard%20Hybrid.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Leopard%20Hybrid/R%20Leopard%20Hybrid.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Luffy + Gear 2",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Luffy%20%2B%20Gear%202/Luffy%20%2B%20Gear%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Luffy%20%2B%20Gear%202/R%20Luffy%20%2B%20Gear%202.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "SBR(steel ball run)",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/SBR(steel%20ball%20run)/SBR(steel%20ball%20run).jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/SBR(steel%20ball%20run)/R%20SBR(steel%20ball%20run).zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "SENGOKU Buddha",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/SENGOKU%20Buddha/SENGOKU%20Buddha.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/SENGOKU%20Buddha/R%20SENGOKU%20Buddha.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Yami + Gura",
+			"image": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Yami%20%2B%20Gura/Yami%20%2B%20Gura.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Jojo%20Bizare/Yami%20%2B%20Gura/R%20Yami%20%2B%20Gura.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Aki (Chainsaw man)",
+			"image": "https://aweu.net/MELONMASTER/Katana%20man/Aki%20(Chainsaw%20man)/Aki%20(Chainsaw%20man).jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Katana%20man/Aki%20(Chainsaw%20man)/R%20Aki%20(Chainsaw%20man).zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		}
+	]
 }
