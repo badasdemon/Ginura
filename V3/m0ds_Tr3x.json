@@ -1,96 +1,655 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Bridge Worm",
+			"image": "https://aweu.net/MELONMASTER/Trex/Bridge%20Worm/Bridge%20Worm.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Bridge%20Worm/S%20Bridge%20Worm.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Crocodile",
+			"image": "https://aweu.net/MELONMASTER/Trex/Crocodile/Crocodile.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Crocodile/S%20Crocodile.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Giant Centipedes",
+			"image": "https://aweu.net/MELONMASTER/Trex/Giant%20Centipedes/Giant%20Centipedes.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Giant%20Centipedes/S%20Giant%20Centipedes.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Giant Mantis",
+			"image": "https://aweu.net/MELONMASTER/Trex/Giant%20Mantis/Giant%20Mantis.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Giant%20Mantis/S%20Giant%20Mantis.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Giant Minipede",
+			"image": "https://aweu.net/MELONMASTER/Trex/Giant%20Minipede/Giant%20Minipede.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Giant%20Minipede/S%20Giant%20Minipede.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Giant Scorpions",
+			"image": "https://aweu.net/MELONMASTER/Trex/Giant%20Scorpions/Giant%20Scorpions.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Giant%20Scorpions/S%20Giant%20Scorpions.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Godzilla",
+			"image": "https://aweu.net/MELONMASTER/Trex/Godzilla/Godzilla.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Godzilla/S%20Godzilla.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Golem",
+			"image": "https://aweu.net/MELONMASTER/Trex/Golem/Golem.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Golem/S%20Golem.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Kiryu",
+			"image": "https://aweu.net/MELONMASTER/Trex/Kiryu/Kiryu.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Kiryu/S%20Kiryu.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Loch Ness monster",
+			"image": "https://aweu.net/MELONMASTER/Trex/Loch%20Ness%20monster/Loch%20Ness%20monster.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Loch%20Ness%20monster/S%20Loch%20Ness%20monster.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Long Horse",
+			"image": "https://aweu.net/MELONMASTER/Trex/Long%20Horse/Long%20Horse.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Long%20Horse/S%20Long%20Horse.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Megalodon melon",
+			"image": "https://aweu.net/MELONMASTER/Trex/Megalodon%20melon/Megalodon%20melon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Megalodon%20melon/S%20Megalodon%20melon.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Megalodon v2",
+			"image": "https://aweu.net/MELONMASTER/Trex/Megalodon%20v2/Megalodon%20v2.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Megalodon%20v2/S%20Megalodon%20v2.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "New T-Rex",
+			"image": "https://aweu.net/MELONMASTER/Trex/New%20T-Rex/New%20T-Rex.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/New%20T-Rex/S%20New%20T-Rex.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Raptor",
+			"image": "https://aweu.net/MELONMASTER/Trex/Raptor/Raptor.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Raptor/S%20Raptor.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "RAPTOR DELTA",
+			"image": "https://aweu.net/MELONMASTER/Trex/RAPTOR%20DELTA/RAPTOR%20DELTA.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/RAPTOR%20DELTA/S%20RAPTOR%20DELTA.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Reaper Leviathan",
+			"image": "https://aweu.net/MELONMASTER/Trex/Reaper%20Leviathan/Reaper%20Leviathan.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Reaper%20Leviathan/S%20Reaper%20Leviathan.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rebuild T-rex",
+			"image": "https://aweu.net/MELONMASTER/Trex/Rebuild%20T-rex/Rebuild%20T-rex.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Rebuild%20T-rex/S%20Rebuild%20T-rex.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rebuild Tyrannosaurus Rex",
+			"image": "https://aweu.net/MELONMASTER/Trex/Rebuild%20Tyrannosaurus%20Rex/Rebuild%20Tyrannosaurus%20Rex.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Rebuild%20Tyrannosaurus%20Rex/S%20rebuild%20trex%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "SCRAPPER MOD",
+			"image": "https://aweu.net/MELONMASTER/Trex/SCRAPPER%20MOD/SCRAPPER%20MOD.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/SCRAPPER%20MOD/S%20SCRAPPER%20MOD.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sea Monster",
+			"image": "https://aweu.net/MELONMASTER/Trex/Sea%20Monster/Sea%20Monster.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Sea%20Monster/S%20Sea%20Monster.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Siren Head",
+			"image": "https://aweu.net/MELONMASTER/Trex/Siren%20Head/Siren%20Head.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Siren%20Head/S%20Siren%20Head.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Spinosaurus vs Tyrannosaurus Rex",
+			"image": "https://aweu.net/MELONMASTER/Trex/Spinosaurus%20vs%20Tyrannosaurus%20Rex/Spinosaurus%20vs%20Tyrannosaurus%20Rex.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Spinosaurus%20vs%20Tyrannosaurus%20Rex/S%20Spinosaurus%20vs%20Tyrannosaurus%20Rex.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "T rex mod",
+			"image": "https://aweu.net/MELONMASTER/Trex/T%20rex%20mod/Trex%20mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Trex/T%20rex%20mod/R%20T%20rex%20mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "T-Rex",
+			"image": "https://aweu.net/MELONMASTER/Trex/T-Rex/T-Rex.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/T-Rex/S%20T-Rex.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "T-rex 2",
+			"image": "https://aweu.net/MELONMASTER/Trex/T-rex%202/T-rex%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/T-rex%202/S%20T-rex%202.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "T-rex at Melon",
+			"image": "https://aweu.net/MELONMASTER/Trex/T-rex%20at%20Melon/T-rex%20at%20Melon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/T-rex%20at%20Melon/S%20T-rex%20at%20Melon.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "T-Rex Mod",
+			"image": "https://aweu.net/MELONMASTER/Trex/T-Rex%20Mod/T-Rex%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/T-Rex%20Mod/S%20T-Rex%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "The Giant worm",
+			"image": "https://aweu.net/MELONMASTER/Trex/The%20Giant%20worm/The%20Giant%20worm.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/The%20Giant%20worm/S%20The%20Giant%20worm.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "The Great White Shark",
+			"image": "https://aweu.net/MELONMASTER/Trex/The%20Great%20White%20Shark/The%20Great%20White%20Shark.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/The%20Great%20White%20Shark/S%20The%20Great%20White%20Shark.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Titanoboa",
+			"image": "https://aweu.net/MELONMASTER/Trex/Titanoboa/Titanoboa.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Titanoboa/S%20Titanoboa.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Tyrannosaurus",
+			"image": "https://aweu.net/MELONMASTER/Trex/Tyrannosaurus/Tyrannosaurus.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Tyrannosaurus/S%20Tyrannosaurus.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "WARBAT",
+			"image": "https://aweu.net/MELONMASTER/Trex/WARBAT/WARBAT.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/WARBAT/S%20WARBAT.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Whale",
+			"image": "https://aweu.net/MELONMASTER/Trex/Whale/Whale.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Trex/Whale/S%20Whale.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Angler Fish",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Angler%20Fish/Angler%20Fish.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Angler%20Fish/R%20Angler%20Fish.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Anomalocaris",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Anomalocaris/Anomalocaris.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Anomalocaris/S%20anolamocaris%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Baculites Phase 1",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Baculites%20Phase%201/Baculites%20Phase%201.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Baculites%20Phase%201/S%20Baculites%20Phase%201%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Baculites Phase 2-4",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Baculites%20Phase%202-4/Baculites%20Phase%202-4.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Baculites%20Phase%202-4/S%20Baculites%20Phase%202-4.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Black Water Snake",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Black%20Water%20Snake/Black%20Water%20Snake.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Black%20Water%20Snake/S%20Black%20Water%20Snake.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Box Crawler",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Box%20Crawler/Box%20Crawler.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Box%20Crawler/S%20Box%20Crawler.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Deinosuchus",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Deinosuchus/Deinosuchus.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Deinosuchus/R%20Deinosuchus.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Godzilla Mod",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Godzilla%20Mod/Godzilla%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Godzilla%20Mod/S%20Godzilla%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Jellyfish",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Jellyfish/Jellyfish.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Jellyfish/R%20Jellyfish.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Jellyfish/S%20Jellyfish%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Jurrasic Mod",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Jurrasic%20Mod/Jurrasic%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Jurrasic%20Mod/S%20Jurrasic%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "JUVENILE SKULLCRAWLER",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/JUVENILE%20SKULLCRAWLER/JUVENILE%20SKULLCRAWLER.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/JUVENILE%20SKULLCRAWLER/S%20JUVENILE%20SKULLCRAWLER.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Lava Bloop and Jaw Titan",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Lava%20Bloop%20and%20Jaw%20Titan/Lava%20Bloop%20and%20Jaw%20Titan.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Lava%20Bloop%20and%20Jaw%20Titan/R%20Lava%20Bloop%20and%20Jaw%20Titan.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Lava%20Bloop%20and%20Jaw%20Titan/S%20Lava%20Bloop%20and%20Jaw%20Titan.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Leviathan",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Leviathan/Leviathan.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Leviathan/S%20Leviathan.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Long Titanium Cobra",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Long%20Titanium%20Cobra/Long%20Titanium%20Cobra.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Long%20Titanium%20Cobra/S%20Long%20Titanium%20Cobra.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Massive Kraken and Bloop",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Massive%20Kraken%20and%20Bloop/Massive%20Kraken%20and%20Bloop.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Massive%20Kraken%20and%20Bloop/R%20Massive%20Kraken%20and%20Bloop.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Massive%20Kraken%20and%20Bloop/S%20Massive%20Kraken%20and%20Bloop.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mecha Godzilla",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Mecha%20Godzilla/Mecha%20Godzilla.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Mecha%20Godzilla/S%20Mecha%20Godzilla.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Megalodon",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Megalodon/Megalodon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Megalodon/R%20Megalodon.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "More Jellyfish Color",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/More%20Jellyfish%20Color/More%20Jellyfish%20Color.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/More%20Jellyfish%20Color/R%20More%20Jellyfish%20Color.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/More%20Jellyfish%20Color/S%20More%20Jellyfish%20Color.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mosasaurus",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Mosasaurus/Mosasaurus.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Mosasaurus/R%20Mosasaurus.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mosasaurus 2",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Mosasaurus%202/Mosasaurus%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Mosasaurus%202/R%20Mosasaurus%202.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Opabinia and Ammonites",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Opabinia%20and%20Ammonites/Opabinia%20and%20Ammonites.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Opabinia%20and%20Ammonites/S%20Opabinia%20and%20Ammonites.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Orthocone",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Orthocone/Orthocone.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Orthocone/S%20Orthocone.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Reaper Leviathan",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Reaper%20Leviathan/Reaper%20Leviathan.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Reaper%20Leviathan/R%20Reaper%20Leviathan.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Reaper%20Leviathan/S%20Reaper%20Leviathan.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rex Mod",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Rex%20Mod/Rex%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Rex%20Mod/S%20Rex%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sea Bridge Worm & Cursed Corn",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Bridge%20Worm%20%26%20Cursed%20Corn/Sea%20Bridge%20Worm%20%26%20Cursed%20Corn.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Bridge%20Worm%20%26%20Cursed%20Corn/S%20Sea%20Bridge%20Worm%20%26%20Cursed%20Corn.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sea Creatures",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Creatures/Sea%20Creatures.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Creatures/R%20Sea%20Creatures.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Creatures/S%20Sea%20Creatures.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sea Creatures 2",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Creatures%202/Sea%20Creatures%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Creatures%202/R%20Sea%20Creatures%202.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Creatures%202/S%20Sea%20Creatures%202.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sea Monster Phase 2-3",
+			"image": "null",
+			"link_mods": "null",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sea Monster Ppg",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Monster%20Phase%202-3/Sea%20Monster%20Phase%202-3.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Sea%20Monster%20Phase%202-3/S%20Sea%20Monster%20Phase%202-3.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Seek Final Form",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Seek%20Final%20Form/Seek%20Final%20Form.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Mosasaurus/Seek%20Final%20Form/R%20Seek%20Final%20Form.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Seek%20Final%20Form/S%20Seek%20Final%20Form.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Shark Mod",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Shark%20Mod/Shark%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Shark%20Mod/S%20Shark%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Shin Godzilla",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Shin%20Godzilla/Shin%20Godzilla.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Shin%20Godzilla/S%20Shin%20Godzilla.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Titanoboa",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Titanoboa/Titanoboa.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Titanoboa/S%20Titanoboa.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "TITANOBOA AND WORM MONSTER",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/TITANOBOA%20AND%20WORM%20MONSTER/TITANOBOA%20AND%20WORM%20MONSTER.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/TITANOBOA%20AND%20WORM%20MONSTER/S%20TITANOBOA%20AND%20WORM%20MONSTER.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Tusotheuthis",
+			"image": "https://aweu.net/MELONMASTER/Mosasaurus/Tusotheuthis/Tusotheuthis.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Mosasaurus/Tusotheuthis/S%20Tusotheuthis.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Boat Mod",
+			"image": "https://aweu.net/MELONMASTER/Kraken/Boat%20Mod/Boat-Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Kraken/Boat%20Mod/S%20Boat%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Kraken",
+			"image": "https://aweu.net/MELONMASTER/Kraken/Kraken/Kraken.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Kraken/Kraken/R%20Kraken.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Kraken 2",
+			"image": "https://aweu.net/MELONMASTER/Kraken/Kraken%202/Kraken-2.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Kraken/Kraken%202/S%20Kraken%202.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Kraken 3",
+			"image": "https://aweu.net/MELONMASTER/Kraken/Kraken%203/Kraken-3.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Kraken/Kraken%203/S%20Kraken%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Kraken 4",
+			"image": "https://aweu.net/MELONMASTER/Kraken/Kraken%204/Kraken-4.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Kraken/Kraken%204/S%20Kraken%204.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mod Kraken",
+			"image": "https://aweu.net/MELONMASTER/Kraken/Mod%20Kraken/Mod-Kraken.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Kraken/Mod%20Kraken/R%20Mod%20Kraken.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Ship",
+			"image": "https://aweu.net/MELONMASTER/Kraken/Ship/Ship.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Kraken/Ship/S%20ship%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Siren Head",
+			"image": "https://aweu.net/MELONMASTER/Kraken/Siren%20Head/Siren-Head.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Kraken/Siren%20Head/S%20Siren%20Head.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "The Furry Trap",
+			"image": "https://aweu.net/MELONMASTER/Kraken/The%20Furry%20Trap/The-Furry-Trap.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Kraken/The%20Furry%20Trap/S%20The%20Furry%20Trap.zip",
+			"type": "C",
+			"description": ""
+		}
+	]
 }
