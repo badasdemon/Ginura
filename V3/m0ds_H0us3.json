@@ -1,96 +1,383 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "A house by the lake",
+			"image": "https://aweu.net/MELONMASTER/House/A%20house%20by%20the%20lake/A%20house%20by%20the%20lake.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/A%20house%20by%20the%20lake/S%20A%20house%20by%20the%20lake.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "A small village house",
+			"image": "https://aweu.net/MELONMASTER/House/A%20small%20village%20house/A%20small%20village%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/A%20small%20village%20house/S%20A%20small%20village%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Amazing house",
+			"image": "https://aweu.net/MELONMASTER/House/Amazing%20house/Amazing%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Amazing%20house/S%20Amazing%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "An ordinary two storey",
+			"image": "https://aweu.net/MELONMASTER/House/An%20ordinary%20two%20storey/An%20ordinary%20two%20storey.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/An%20ordinary%20two%20storey/S%20An%20ordinary%20two%20storey.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "BIG HOUSE",
+			"image": "https://aweu.net/MELONMASTER/House/BIG%20HOUSE/BIG%20HOUSE.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/BIG%20HOUSE/S%20BIG%20HOUSE.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Big House Mod",
+			"image": "https://aweu.net/MELONMASTER/House/Big%20House%20Mod/Big%20House%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Big%20House%20Mod/V%20Big%20House%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Big house venitag",
+			"image": "https://aweu.net/MELONMASTER/House/Big%20house%20venitag/Big%20house%20venitag.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Big%20house%20venitag/S%20Big%20house%20venitag.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Budget holiday homes",
+			"image": "https://aweu.net/MELONMASTER/House/Budget%20holiday%20homes/Budget%20holiday%20homes.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Budget%20holiday%20homes/S%20Budget%20holiday%20homes.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Building - Village house",
+			"image": "https://aweu.net/MELONMASTER/House/Building%20-%20Village%20house/Building%20-%20Village%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Building%20-%20Village%20house/S%20Building%20-%20Village%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bunker-Laboratory House",
+			"image": "https://aweu.net/MELONMASTER/House/Bunker-Laboratory%20House/Bunker-Laboratory%20House.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Bunker-Laboratory%20House/S%20Bunker-Laboratory%20House.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Classic house",
+			"image": "https://aweu.net/MELONMASTER/House/Classic%20house/Classic%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Classic%20house/S%20Classic%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "D side Oswald",
+			"image": "https://aweu.net/MELONMASTER/House/D%20side%20Oswald/D%20side%20Oswald.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/House/D%20side%20Oswald/V%20D%20side%20Oswald.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Forest House",
+			"image": "https://aweu.net/MELONMASTER/House/Forest%20House/Forest%20House.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/House/Forest%20House/V%20Forest%20House.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Home for crash tests",
+			"image": "https://aweu.net/MELONMASTER/House/Home%20for%20crash%20tests/Home%20for%20crash%20tests.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Home%20for%20crash%20tests/S%20Home%20for%20crash%20tests.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House",
+			"image": "https://aweu.net/MELONMASTER/House/House/House.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House/S%20House.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House 2",
+			"image": "https://aweu.net/MELONMASTER/House/House%202/House%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House%202/S%20House%202.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House Five Story",
+			"image": "https://aweu.net/MELONMASTER/House/House%20Five%20Story/House%20Five%20Story.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House%20Five%20Story/S%20House%20Five%20Story.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House Frame Mod",
+			"image": "https://aweu.net/MELONMASTER/House/House%20Frame%20Mod/House%20Frame%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/House/House%20Frame%20Mod/V%20House%20Frame%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House No Plant",
+			"image": "https://aweu.net/MELONMASTER/House/House%20No%20Plant/House%20No%20Plant.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House%20No%20Plant/S%20House%20No%20Plant.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House on the slope",
+			"image": "https://aweu.net/MELONMASTER/House/House%20on%20the%20slope/House%20on%20the%20slope.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House%20on%20the%20slope/S%20House%20on%20the%20slope.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House on the water",
+			"image": "https://aweu.net/MELONMASTER/House/House%20on%20the%20water/House%20on%20the%20water.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House%20on%20the%20water/S%20House%20on%20the%20water.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House Very Big",
+			"image": "https://aweu.net/MELONMASTER/House/House%20Very%20Big/House%20Very%20Big.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House%20Very%20Big/S%20House%20Very%20Big.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House with basement",
+			"image": "https://aweu.net/MELONMASTER/House/House%20with%20basement/House%20with%20basement.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House%20with%20basement/S%20House%20with%20basement.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "House with Garage",
+			"image": "https://aweu.net/MELONMASTER/House/House%20with%20Garage/House%20with%20Garage.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/House%20with%20Garage/S%20House%20with%20Garage.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Lodge. Just a house",
+			"image": "https://aweu.net/MELONMASTER/House/Lodge.%20Just%20a%20house/Lodge.%20Just%20a%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Lodge.%20Just%20a%20house/S%20Lodge.%20Just%20a%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Major Big House",
+			"image": "https://aweu.net/MELONMASTER/House/Major%20Big%20House/Major%20Big%20House.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Major%20Big%20House/S%20Major%20Big%20House.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mountain with a house",
+			"image": "https://aweu.net/MELONMASTER/House/Mountain%20with%20a%20house/Mountain%20with%20a%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Mountain%20with%20a%20house/S%20Mountain%20with%20a%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Multi-storey",
+			"image": "https://aweu.net/MELONMASTER/House/Multi-storey/Multi-storey.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/House/Multi-storey/V%20Multi-storey.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Ordinary House",
+			"image": "https://aweu.net/MELONMASTER/House/Ordinary%20House/Ordinary%20House.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Ordinary%20House/S%20Ordinary%20House.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Ordinary house with a car",
+			"image": "https://aweu.net/MELONMASTER/House/Ordinary%20house%20with%20a%20car/Ordinary%20house%20with%20a%20car.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Ordinary%20house%20with%20a%20car/S%20Ordinary%20house%20with%20a%20car.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pack for 7 houses",
+			"image": "https://aweu.net/MELONMASTER/House/Pack%20for%207%20houses/Pack%20for%207%20houses.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Pack%20for%207%20houses/S%20Pack%20for%207%20houses.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Residential 4 storey house",
+			"image": "https://aweu.net/MELONMASTER/House/Residential%204%20storey%20house/Residential%204%20storey%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Residential%204%20storey%20house/S%20Residential%204%20storey%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Simple wooden house",
+			"image": "https://aweu.net/MELONMASTER/House/Simple%20wooden%20house/Simple%20wooden%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Simple%20wooden%20house/S%20Simple%20wooden%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Small prestigious house",
+			"image": "https://aweu.net/MELONMASTER/House/Small%20prestigious%20house/Small%20prestigious%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Small%20prestigious%20house/S%20Small%20prestigious%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "The house is realistic",
+			"image": "https://aweu.net/MELONMASTER/House/The%20house%20is%20realistic/The%20house%20is%20realistic.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/The%20house%20is%20realistic/S%20The%20house%20is%20realistic.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Three-storey house",
+			"image": "https://aweu.net/MELONMASTER/House/Three-storey%20house/Three-storey%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Three-storey%20house/S%20Three-storey%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Tinny house",
+			"image": "https://aweu.net/MELONMASTER/House/Tinny%20house/Tinny%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Tinny%20house/S%20Tinny%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Two treehouses",
+			"image": "https://aweu.net/MELONMASTER/House/Two%20treehouses/Two%20treehouses.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Two%20treehouses/S%20Two%20treehouses.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Two-storey house",
+			"image": "https://aweu.net/MELONMASTER/House/Two-storey%20house/Two-storey%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Two-storey%20house/S%20Two-storey%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Two-storey house, with four rooms",
+			"image": "https://aweu.net/MELONMASTER/House/Two-storey%20house%2C%20with%20four%20rooms/Two-storey%20house%2C%20with%20four%20rooms.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Two-storey%20house%2C%20with%20four%20rooms/S%20Two-storey%20house%2C%20with%20four%20rooms.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Village house",
+			"image": "https://aweu.net/MELONMASTER/House/Village%20house/Village%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Village%20house/S%20Village%20house.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Village House 2",
+			"image": "https://aweu.net/MELONMASTER/House/Village%20House%202/Village%20House%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Village%20House%202/S%20Village%20House%202.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Wild West Style House",
+			"image": "https://aweu.net/MELONMASTER/House/Wild%20West%20Style%20House/Wild%20West%20Style%20House.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Wild%20West%20Style%20House/S%20Wild%20West%20Style%20House.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Winter house",
+			"image": "https://aweu.net/MELONMASTER/House/Winter%20house/Winter%20house.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/House/Winter%20house/S%20Winter%20house.zip",
+			"type": "C",
+			"description": ""
+		}
+	]
 }
