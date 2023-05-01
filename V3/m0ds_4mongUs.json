@@ -1,96 +1,431 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Among Us en Melon",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20en%20Melon/Among%20Us%20en%20Melon.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20en%20Melon/S%20Among%20Us%20en%20Melon.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Among Us in Melon",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20in%20Melon/Among%20Us%20in%20Melon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20in%20Melon/M%20Among%20Us%20in%20Melon.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Among Us Melon",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Melon/Among%20Us%20Melon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Melon/X%20Among%20Us%20Melon.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Among US Mod",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Among%20US%20Mod/Among%20US%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Among%20US%20Mod/X%20Among%20US%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Among Us Mod 2",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%202/Among%20Us%20Mod%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%202/X%20Among%20Us%20Mod%202.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Among Us Mod Melon",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%20Melon/Among%20Us%20Mod%20Melon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%20Melon/X%20Among%20Us%20Mod%20Melon.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Among Us Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%20Pack/Among%20Us%20Mod%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%20Pack/X%20Among%20Us%20Mod%20Pack.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%20Pack/S%20Among%20Us%20Mod%20Pack.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Among Us Mod Pack By Acee",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%20Pack%20By%20Acee/Among%20Us%20Mod%20Pack%20By%20Acee.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Among%20Us%20Mod%20Pack%20By%20Acee/X%20Among%20Us%20Mod%20Pack%20By%20Acee.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Boyfriend Mod",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Boyfriend%20Mod/Boyfriend%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/Boyfriend%20Mod/S%20Boyfriend%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Creepypasta Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Creepypasta%20Mod%20Pack/Creepypasta%20Mod%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Creepypasta%20Mod%20Pack/X%20Creepypasta%20Mod%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Cuphead Mini Pack",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Cuphead%20Mini%20Pack/Cuphead%20Mini%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Cuphead%20Mini%20Pack/X%20Cuphead%20Mini%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Doors Pack",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Doors%20Pack/Doors%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Doors%20Pack/X%20Doors%20Pack.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/Doors%20Pack/S%20Doors%20Pack.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Exe Mod",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Exe%20Mod/Exe%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Exe%20Mod/X%20Exe%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Gumball Mod",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Gumball%20Mod/Gumball%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Gumball%20Mod/X%20Gumball%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mario",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Mario/Mario.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Mario/X%20Mario.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mini Jass",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Mini%20Jass/Mini%20Jass.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Mini%20Jass/X%20Mini%20Jass.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Orange Mod By Jass",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Orange%20Mod%20By%20Jass/Orange%20Mod%20By%20Jass.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Orange%20Mod%20By%20Jass/X%20Orange%20Mod%20By%20Jass.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pibby Finn",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Pibby%20Finn/Pibby%20Finn.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/Pibby%20Finn/S%20Pibby%20Finn.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pibby Mod",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Pibby%20Mod/Pibby%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Pibby%20Mod/X%20Pibby%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pico Mod",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Pico%20Mod/Pico%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Pico%20Mod/X%20Pico%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "PopCorn Living",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/PopCorn%20Living/PopCorn%20Living.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/PopCorn%20Living/S%20PopCorn%20Living.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "PVZ NightTime",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/PVZ%20NightTime/PVZ%20NightTime.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/PVZ%20NightTime/X%20PVZ%20NightTime.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "PVZ PACK",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/PVZ%20PACK/PVZ%20PACK.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/PVZ%20PACK/X%20PVZ%20PACK.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/PVZ%20PACK/S%20PVZ%20PACK.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Red Among Us",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Red%20Among%20Us/Red%20Among%20Us.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Red%20Among%20Us/X%20Red%20Among%20Us.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Roblox Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Roblox%20Mod%20Pack/Roblox%20Mod%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Roblox%20Mod%20Pack/X%20Roblox%20Mod%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Siren Head Mod",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Siren%20Head%20Mod/Siren%20Head%20Mod.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/Siren%20Head%20Mod/S%20Siren%20Head%20Mod.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sonic Pack",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Sonic%20Pack/Sonic%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Sonic%20Pack/X%20Sonic%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Tricky Mini",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Tricky%20Mini/Tricky%20Mini.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/Tricky%20Mini/S%20Tricky%20Mini.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Tsrp Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Tsrp%20Mod%20Pack/Tsrp%20Mod%20Pack.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Among%20Us/Tsrp%20Mod%20Pack/S%20Tsrp%20Mod%20Pack.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Undertale Mod Pack",
+			"image": "https://aweu.net/MELONMASTER/Among%20Us/Undertale%20Mod%20Pack/Undertale%20Mod%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Among%20Us/Undertale%20Mod%20Pack/X%20Undertale%20Mod%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Batim",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Batim/Batim.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Batim/V%20Batim.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bendy Mod",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod/Bendy%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod/V%20Bendy%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bendy Mod Melon",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20Melon/Bendy%20Mod%20Melon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20Melon/S%20The%20Bendy%E2%80%8B.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20Melon/S%20The%20Bendy%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bendy Mod v3",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20v3/Bendy%20Mod%20v3.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%20v3/V%20Bendy%20Mod%20v3.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bendy Mod+Crusifix Melon",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%2BCrusifix%20Melon/Bendy%20Mod%2BCrusifix%20Melon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Mod%2BCrusifix%20Melon/V%20Bendy%20Mod%2BCrusifix%20Melon.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bendy Pack Mod",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Pack%20Mod/Bendy%20Pack%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Pack%20Mod/V%20Bendy%20Pack%20Mod.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Bendy/Bendy%20Pack%20Mod/S%20Beast%20Bendy%E2%80%8B.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bendy The ink Demon",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Bendy%20The%20ink%20Demon/Bendy%20The%20ink%20Demon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Bendy%20The%20ink%20Demon/V%20Bendy%20The%20ink%20Demon.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Bendy/Bendy%20The%20ink%20Demon/S%20Bendy%20The%20ink%20Demon.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Crippipaste and Horror",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Crippipaste%20and%20Horror/Crippipaste%20and%20Horror.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Crippipaste%20and%20Horror/V%20Crippipaste%20and%20Horror.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Ink Demon",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Ink%20Demon/Ink%20Demon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Ink%20Demon/V%20Ink%20Demon.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pack by batim",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Pack%20by%20batim/Pack%20by%20batim.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Pack%20by%20batim/V%20Pack%20by%20batim.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pack by bendy",
+			"image": "https://aweu.net/MELONMASTER/Bendy/Pack%20by%20bendy/Pack%20by%20bendy.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Bendy/Pack%20by%20bendy/V%20Pack%20by%20bendy.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Green Rainbow Friend v2",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Green%20Rainbow%20Friend%20v2/Green%20Rainbow%20Friend%20v2.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Green%20Rainbow%20Friend%20v2/S%20Green%20Rainbow%20Friend%20v2.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "PURPLE RAINBOW FRIEND MOD",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/PURPLE%20RAINBOW%20FRIEND%20MOD/PURPLE%20RAINBOW%20FRIEND%20MOD.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Rainbow%20Friends/PURPLE%20RAINBOW%20FRIEND%20MOD/S%20PURPLE%20RAINBOW%20FRIEND%20MOD.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rainbow Friend pack",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20Friend%20pack/Rainbow%20Friend%20pack.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20Friend%20pack/S%20Rainbow%20Friend%20pack.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rainbow Friends",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20Friends/Rainbow%20Friends.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20Friends/R%20Rainbow%20Friends.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rainbow Friends 2",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20Friends%202/Rainbow%20Friends%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20Friends%202/R%20Rainbow%20Friends%202.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20Friends%202/S%20Rainbow%20Friends%202.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rainbow friends mod",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20friends%20mod/Rainbow%20friends%20mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20friends%20mod/R%20Rainbow%20friends%20mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rainbow friends mod 2.0",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20friends%20mod%202.0/Rainbow%20friends%20mod%202.0.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Rainbow%20Friends/Rainbow%20friends%20mod%202.0/R%20Rainbow%20friends%20mod%202.0.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "RAINBOW FRIENDS OFFICIALLY RELEASED",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/RAINBOW%20FRIENDS%20OFFICIALLY%20RELEASED/RAINBOW%20FRIENDS%20OFFICIALLY%20RELEASED.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Rainbow%20Friends/RAINBOW%20FRIENDS%20OFFICIALLY%20RELEASED/R%20RAINBOW%20FRIENDS%20OFFICIALLY%20RELEASED.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "YELLOW RAINBOW FRIEND",
+			"image": "https://aweu.net/MELONMASTER/Rainbow%20Friends/YELLOW%20RAINBOW%20FRIEND/YELLOW%20RAINBOW%20FRIEND.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Rainbow%20Friends/YELLOW%20RAINBOW%20FRIEND/S%20YELLOW%20RAINBOW%20FRIEND.zip",
+			"type": "C",
+			"description": ""
+		}
+	]
 }
