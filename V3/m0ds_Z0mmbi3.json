@@ -1,96 +1,463 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Bunker in case of a zombie apocalypse",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Bunker%20in%20case%20of%20a%20zombie%20apocalypse/Bunker%20in%20case%20of%20a%20zombie%20apocalypse.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Zombie/Bunker%20in%20case%20of%20a%20zombie%20apocalypse/S%20Bunker%20in%20case%20of%20a%20zombie%20apocalypse.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Captain America Zombie",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Captain%20America%20Zombie/Captain%20America%20Zombie.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Captain%20America%20Zombie/R%20Captain%20America%20Zombie.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Dead Cells",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Dead%20Cells/Dead%20Cells.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Dead%20Cells/R%20Dead%20Cells.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Gargantua",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Gargantua/Gargantua.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Gargantua/R%20Gargantua.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Jason Voorhees",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Jason%20Voorhees/Jason%20Voorhees.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Jason%20Voorhees/R%20Jason%20Voorhees.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Melon-Z",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Melon-Z/Melon-Z.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Melon-Z/R%20Melon-Z.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Zombie/Melon-Z/S%20Melon-Z.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "World Zombie",
+			"image": "https://aweu.net/MELONMASTER/Zombie/World%20Zombie/World%20Zombie.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/World%20Zombie/R%20World%20Zombie.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "WTF zombie factorу",
+			"image": "https://aweu.net/MELONMASTER/Zombie/WTF%20zombie%20factorу/WTF%20zombie%20factorу.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Zombie/WTF%20zombie%20factorу/S%20WTF%20zombie%20factorу.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Zombie Apocalypse",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Zombie%20Apocalypse/Zombie%20Apocalypse.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Zombie%20Apocalypse/R%20Zombie%20Apocalypse.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Zombie from PPG",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Zombie%20from%20PPG/Zombie%20from%20PPG.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Zombie%20from%20PPG/R%20Zombie%20from%20PPG.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Zombie mark 3",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Zombie%20mark%203/Zombie%20mark%203.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Zombie%20mark%203/R%20Zombie%20mark%203.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Zombie melon",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Zombie%20melon/Zombie%20mark%203.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Zombie%20melon/R%20Zombie%20mark%203.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Zombie Dancer",
+			"image": "https://aweu.net/MELONMASTER/Zombie/Zombie-Dancer/Zombie-Dancer.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Zombie/Zombie-Dancer/R%20Zombie-Dancer.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Acid Dimension",
+			"image": "https://aweu.net/MELONMASTER/Monster/Acid%20Dimension/Acid%20Dimension.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Acid%20Dimension/R%20Acid%20Dimension.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Alien MONSTER",
+			"image": "https://aweu.net/MELONMASTER/Monster/Alien%20MONSTER/Alien%20MONSTER.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Monster/Alien%20MONSTER/S%20Alien%20MONSTER.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bloomberg mod",
+			"image": "https://aweu.net/MELONMASTER/Monster/Bloomberg%20mod/Bloomberg%20mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Bloomberg%20mod/R%20Bloomberg%20mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bone Monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/Bone%20Monster/Bone%20Monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Bone%20Monster/R%20Bone%20Monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Boring Guy",
+			"image": "https://aweu.net/MELONMASTER/Monster/Boring%20Guy/Boring%20guy.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Boring%20Guy/R%20Boring%20guy.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Collectible Monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/Collectible%20Monster/Collectible%20Monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Collectible%20Monster/R%20Collectible%20Monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Goblin",
+			"image": "https://aweu.net/MELONMASTER/Monster/Goblin/Goblin.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Goblin/R%20Goblin.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Iron Lung",
+			"image": "https://aweu.net/MELONMASTER/Monster/Iron%20Lung/Iron%20Lung.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Monster/Iron%20Lung/S%20Iron%20Lung.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mega Monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/Mega%20Monster/Mega%20Monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Mega%20Monster/R%20mega%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "mod mosasaurus",
+			"image": "https://aweu.net/MELONMASTER/Monster/mod%20mosasaurus/mod%20mosasaurus.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/mod%20mosasaurus/R%20mod%20mosasaurus.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster/Monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster/R%20Monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster 2",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%202/Monster%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%202/R%20Monster%202.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster 3",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%203/Monster%203.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Monster/Monster%203/S%20Monster%203.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster 4",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%204/Monster%204.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%204/R%20Monster%204.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster 5",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%205/Monster%205.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%205/R%20Monster%205.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster From Backrooms",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%20From%20Backrooms/Monster%20From%20Backrooms.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%20From%20Backrooms/R%20Monster%20From%20Backrooms.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster From Backrooms 2",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%20From%20Backrooms%202/Monster%20From%20Backrooms%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%20From%20Backrooms%202/R%20Monster%20From%20Backrooms%202.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "monster from fan",
+			"image": "https://aweu.net/MELONMASTER/Monster/monster%20from%20fan/monster%20from%20fan.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/monster%20from%20fan/R%20monster%20from%20fan.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster Location",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%20Location/Monster%20Location.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%20Location/R%20Monster%20Location.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster lvl 999",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%20lvl%20999/Monster%20lvl%20999.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%20lvl%20999/R%20monster%20lvl%20999.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster Melon",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%20Melon/Monster%20Melon.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%20Melon/R%20monster%20melon.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "monster melon mod",
+			"image": "https://aweu.net/MELONMASTER/Monster/monster%20melon%20mod/monster%20melon%20mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/monster%20melon%20mod/R%20monster%20melon%20mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster Stalker",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%20Stalker/Monster%20Stalker.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%20Stalker/R%20Monster%20Stalker.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Monster That Moves",
+			"image": "https://aweu.net/MELONMASTER/Monster/Monster%20That%20Moves/Monster%20That%20Moves.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Monster%20That%20Moves/R%20Monster%20That%20Moves.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "monster wood",
+			"image": "https://aweu.net/MELONMASTER/Monster/monster%20wood/monster%20wood.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/monster%20wood/R%20monster%20wood.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC - Night monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/NPC%20-%20Night%20monster/NPC%20-%20Night%20monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/NPC%20-%20Night%20monster/R%20NPC%20-%20Night%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC Crystal purple",
+			"image": "https://aweu.net/MELONMASTER/Monster/NPC%20Crystal%20purple/NPC%20Crystal%20purple.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/NPC%20Crystal%20purple/R%20NPC%20Crystal%20purple.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC Crystal purple monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/NPC%20Crystal%20purple%20monster/NPC%20Crystal%20purple%20monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/NPC%20Crystal%20purple%20monster/R%20NPC%20Crystal%20purple%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC forest monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/NPC%20forest%20monster/NPC%20forest%20monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/NPC%20forest%20monster/R%20NPC%20forest%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC monster Melonoid",
+			"image": "https://aweu.net/MELONMASTER/Monster/NPC%20monster%20Melonoid/NPC%20monster%20Melonoid.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/NPC%20monster%20Melonoid/R%20NPC%20monster%20Melonoid.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC Night monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/NPC%20Night%20monster/NPC%20Night%20monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/NPC%20Night%20monster/R%20NPC%20Night%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "NPC Yawstrich",
+			"image": "https://aweu.net/MELONMASTER/Monster/NPC%20Yawstrich/NPC%20Yawstrich.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/NPC%20Yawstrich/R%20NPC%20Yawstrich.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Prefabricated Monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/Prefabricated%20Monster/Prefabricated%20Monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Prefabricated%20Monster/R%20Prefabricated%20Monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Rush monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/Rush%20monster/Rush%20monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Rush%20monster/R%20Rush%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Sea monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/Sea%20monster/Sea%20monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Sea%20monster/R%20Sea%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "sewer monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/sewer%20monster/sewer%20monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/sewer%20monster/R%20sewer%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "The Backstage Monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/The%20Backstage%20Monster/The%20Backstage%20Monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/The%20Backstage%20Monster/R%20The%20Backstage%20Monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "tunnel monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/tunnel%20monster/tunnel%20monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/tunnel%20monster/R%20tunnel%20monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Underwater Monster",
+			"image": "https://aweu.net/MELONMASTER/Monster/Underwater%20Monster/Underwater%20Monster.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Underwater%20Monster/R%20Underwater%20Monster.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Underwater Monster 2",
+			"image": "https://aweu.net/MELONMASTER/Monster/Underwater%20Monster%202/Underwater%20Monster%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Underwater%20Monster%202/R%20Underwater%20Monster%202.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Underwater Monster 3",
+			"image": "https://aweu.net/MELONMASTER/Monster/Underwater%20Monster%203/Underwater%20Monster%203.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Monster/Underwater%20Monster%203/R%20Underwater%20Monster%203.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		}
+	]
 }
