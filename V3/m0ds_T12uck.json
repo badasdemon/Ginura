@@ -313,6 +313,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus/Bus.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus/S%20Bus.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -321,6 +322,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%202/Bus%202.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%202/S%20Bus%202.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -329,6 +331,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%203/Bus%203.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%203/S%20Bus%203.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -337,6 +340,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%204/Bus%204.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%204/S%20Bus%204.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -345,6 +349,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%205/Bus%205.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%205/S%20Bus%205.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -353,6 +358,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%206/Bus%206.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%206/S%20Bus%206.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -361,6 +367,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%207/Bus%207.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%207/S%20Bus%207.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -369,6 +376,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%208/Bus%208.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%208/S%20Bus%208.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -377,6 +385,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%20Base%20AO79%20Etalon/Bus%20Base%20AO79%20Etalon.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%20Base%20AO79%20Etalon/S%20Bus%20Base%20AO79%20Etalon.zip",
+			"type": "C",
 			"description": "null"
 		},
 		{
@@ -385,6 +394,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%20Bogdan/Bus%20Bogdan.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%20Bogdan/S%20Bus%20Bogdan.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
@@ -393,6 +403,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%20for%20crash%20tests/Bus%20for%20crash%20tests.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%20for%20crash%20tests/S%20Bus%20for%20crash%20tests.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
@@ -401,6 +412,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Bus%20for%20crash%20tests%202/Bus%20for%20crash%20tests%202.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Bus%20for%20crash%20tests%202/S%20Bus%20for%20crash%20tests%202.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
@@ -409,6 +421,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Citroen%20Jumper/Citroen%20Jumper.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Citroen%20Jumper/S%20Citroen%20Jumper.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
@@ -417,6 +430,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Nice%20bus/Nice%20bus.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Nice%20bus/S%20Nice%20bus.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
@@ -425,12 +439,14 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/PAZ-32053%20and%20PAZ-3205/PAZ-32053%20and%20PAZ-3205.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/PAZ-32053%20and%20PAZ-3205/S%20PAZ-32053%20and%20PAZ-3205.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
 			"image": "https://aweu.net/MELONMASTER/Bus/The%20Bus/The%20Bus.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/The%20Bus/S%20The%20Bus.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
@@ -439,6 +455,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/Volkswagen%20bus/Volkswagen%20bus.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/Volkswagen%20bus/S%20Volkswagen%20bus.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
@@ -447,6 +464,7 @@
 			"image": "https://aweu.net/MELONMASTER/Bus/ХАЗ%20-%20А103/ХАЗ%20-%20А103.jpg",
 			"link_mods": "null",
 			"link_saves": "https://aweu.net/MELONMASTER/Bus/ХАЗ%20-%20А103/S%20ХАЗ%20-%20А103.zip",
+				"type": "C",
 			"description": "null"
 		},
 		{
