@@ -1,96 +1,319 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Fast Food Pack",
+			"image": "https://aweu.net/MELONMASTER/Food/Fast%20Food%20Pack/Fast%20Food%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Fast%20Food%20Pack/V%20Fast%20Food%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Food",
+			"image": "https://aweu.net/MELONMASTER/Food/Food/Food.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Food/V%20Food.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Food From Minecraft",
+			"image": "https://aweu.net/MELONMASTER/Food/Food%20From%20Minecraft/Food%20From%20Minecraft.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Food%20From%20Minecraft/V%20Food%20From%20Minecraft.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Food Mod",
+			"image": "https://aweu.net/MELONMASTER/Food/Food%20Mod/Food%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Food%20Mod/V%20Food%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Food Pack",
+			"image": "https://aweu.net/MELONMASTER/Food/Food%20Pack/Food%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Food%20Pack/V%20Food%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Foodcar",
+			"image": "https://aweu.net/MELONMASTER/Food/Foodcar/Foodcar.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Foodcar/V%20Foodcar.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "French Baguette",
+			"image": "https://aweu.net/MELONMASTER/Food/French%20Baguette/French%20Baguette.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/French%20Baguette/V%20French%20Baguette.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pack for food",
+			"image": "https://aweu.net/MELONMASTER/Food/Pack%20for%20food/Pack%20for%20food.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Pack%20for%20food/V%20Pack%20for%20food.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "STALKER Food",
+			"image": "https://aweu.net/MELONMASTER/Food/STALKER%20Food/STALKER%20Food.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/STALKER%20Food/V%20STALKER%20Food.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Banana",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Banana/Banana.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Banana/V%20Banana.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bowl With Vitamin",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Bowl%20With%20Vitamin/Bowl%20with%20vitamins.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Bowl%20With%20Vitamin/V%20Bowl%20with%20vitamins.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Dragon Fruit",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Dragon%20Fruit/Dragon%20Fruit.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Dragon%20Fruit/V%20Dragon%20Fruit.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Fruits, Vegetables and Berries",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Fruits%2C%20Vegetables%20and%20Berries/Fruits%2C%20Vegetables%20and%20Berries.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Fruits%2C%20Vegetables%20and%20Berries/V%20Fruits%2C%20Vegetables%20and%20Berries.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Lemon npc",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Lemon%20npc/Lemon%20npc.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Lemon%20npc/V%20Lemon%20npc.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Orange + Item",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Orange%20%2B%20Item/Orange%20%2B%20Item.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Orange%20%2B%20Item/V%20Orange%20%2B%20Item.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Vegetables and fruits",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Vegetables%20and%20fruits/Vegetables%20and%20fruits.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Vegetables%20and%20fruits/V%20Vegetables%20and%20fruits.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Vegetables and Fruits 2",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Vegetables%20and%20Fruits%202/Vegetables%20and%20Fruits%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Vegetables%20and%20Fruits%202/V%20Vegetables%20and%20Fruits%202.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bigpack Furniture",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Bigpack%20Furniture/Bigpack%20Furniture.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Funiture/Bigpack%20Furniture/S%20Bigpack%20Furniture.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Caramel Destroyer",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Caramel%20Destroyer/Caramel%20Destroyer.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Caramel%20Destroyer/V%20Caramel%20Destroyer.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Funiture and Dishes",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Funiture%20and%20Dishes/Funiture%20and%20Dishes.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Funiture%20and%20Dishes/V%20Funiture%20and%20Dishes.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Furniture",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Bed/Furniture%20Bed.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Bed/V%20Furniture%20Bed.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Furniture Bed",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod/Furniture%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod/V%20Furniture%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Furniture Mod",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod/Furniture%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod/V%20Furniture%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Furniture Mod 2",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod%202/Furniture%20Mod%202.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod%202/S%20Furniture%20Mod%202.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Furniture Mod 3",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod%203/Furniture%20Mod%203.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod%203/V%20Furniture%20Mod%203.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Furniture Mod 4",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod%204/Furniture%20Mod%204.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Furniture%20Mod%204/V%20Furniture%20Mod%204.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Halloween NPCs and decorations",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Halloween%20NPCs%20and%20decorations/Halloween%20NPCs%20and%20decorations.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Halloween%20NPCs%20and%20decorations/V%20Halloween%20NPCs%20and%20decorations.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Japanese culture",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Japanese%20culture/Japanese%20culture.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Funiture/Japanese%20culture/S%20Japanese%20culture.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Living Room Furniture",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Living%20Room%20Furniture/Living%20Room%20Furniture.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Living%20Room%20Furniture/V%20Living%20Room%20Furniture.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Mod Decore",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Mod%20Decore/Mod%20Decore.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Mod%20Decore/V%20Mod%20Decore.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "New Years Pack",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Pack%20on%20indoor%20plants/Pack%20on%20indoor%20plants.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Pack%20on%20indoor%20plants/V%20Pack%20on%20indoor%20plants.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Funiture/Pack%20on%20indoor%20plants/S%20Pack%20on%20indoor%20plants.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pack on indoor plants",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Pack%20on%20indoor%20plants/Pack%20on%20indoor%20plants.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Pack%20on%20indoor%20plants/V%20Pack%20on%20indoor%20plants.zip",
+			"link_saves": "https://aweu.net/MELONMASTER/Funiture/Pack%20on%20indoor%20plants/S%20Pack%20on%20indoor%20plants.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Tiny Furniture",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Tiny%20Furniture/Tiny%20Furniture.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Tiny%20Furniture/V%20Tiny%20Furniture.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "TV Full HD",
+			"image": "https://aweu.net/MELONMASTER/Funiture/TV%20Full%20HD/TV%20Full%20HD.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Funiture/TV%20Full%20HD/S%20TV%20Full%20HD.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Vending machine",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Vending%20machine/Vending%20machine.jpg",
+			"link_mods": "null",
+			"link_saves": "https://aweu.net/MELONMASTER/Funiture/Vending%20machine/S%20Vending%20machine.zip",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Winter Pack",
+			"image": "https://aweu.net/MELONMASTER/Funiture/Winter%20Pack/Winter%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Funiture/Winter%20Pack/V%20Winter%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		}
+	]
 }
