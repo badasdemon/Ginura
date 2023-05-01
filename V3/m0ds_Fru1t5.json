@@ -1,96 +1,167 @@
 {
-  "Ads": [
-    {
-    "select_main_ads": "ADMOB",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "backup_ads_rewards":"",
-      "open_ads_admob":"",
-      "open_ads_alien":"",
-      "open_ads_max":"1",
-      "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
-      "status_app": "0",
-      "link_redirect": "https://"
-
-    }
-  ],
-  "Mods": [
-    {
-      "name": "Kick Buddy",
-      "image": "https://aliendro.id/uploads/demo/melmod/buddy.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Kick_The_Buddy.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Plant Wubbox",
-      "image": "file:///android_asset/plant_wubbox.jpg",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/plant wubbox_.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Broly",
-      "image": "https://aliendro.id/uploads/demo/melmod/Broly.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/broli.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Balls",
-      "image": "file:///android_asset/Balls.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Balls.zip",
-      "link_saves": "null",
-      "type": "W",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Naruto",
-      "image": "https://aliendro.id/uploads/demo/melmod/Naruto.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Naruto.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Goku",
-      "image": "file:///android_asset/goku.jpg",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/Goku.zip",
-      "link_saves": "null",
-      "type": "C",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "Functional ChainsawMan",
-      "image": "https://aliendro.id/uploads/demo/melmod/Functional-ChainsawMan.webp",
-      "link_mods": "null",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/Chainsawman.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    },
-    {
-      "name": "evil wubbox",
-      "image": "file:///android_asset/evil-wubbox-.webp",
-      "link_mods": "https://aliendro.id/uploads/demo/melmod/evil_mods.zip",
-      "link_saves": "https://aliendro.id/uploads/demo/melmod/evil_save.zip",
-      "type": "B",
-      "description": "Contoh deskripsi .melmod atau .melsave, jika Mods tidak memiliki deskripsi silahkan isi dengan null (lihat penulisan di json)"
-    }
-  ]
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "ADMOB",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "",
+			"main_ads_rewards": "",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "",
+			"backup_ads_intertitial": "",
+			"backup_ads_rewards": "",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"open_ads_max": "1",
+			"interval_intertitial": 5,
+			"initialize_sdk": "",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "",
+			"high_paying_keyword_2": "",
+			"high_paying_keyword_3": "",
+			"high_paying_keyword_4": "",
+			"high_paying_keyword_5": "",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Mods": [
+		{
+			"name": "Banana",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Banana/Banana.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Banana/V%20Banana.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Bowl With Vitamin",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Bowl%20With%20Vitamin/Bowl%20with%20vitamins.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Bowl%20With%20Vitamin/V%20Bowl%20with%20vitamins.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Dragon Fruit",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Dragon%20Fruit/Dragon%20Fruit.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Dragon%20Fruit/V%20Dragon%20Fruit.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Fruits, Vegetables and Berries",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Fruits%2C%20Vegetables%20and%20Berries/Fruits%2C%20Vegetables%20and%20Berries.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Fruits%2C%20Vegetables%20and%20Berries/V%20Fruits%2C%20Vegetables%20and%20Berries.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Lemon npc",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Lemon%20npc/Lemon%20npc.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Lemon%20npc/V%20Lemon%20npc.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Orange + Item",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Orange%20%2B%20Item/Orange%20%2B%20Item.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Orange%20%2B%20Item/V%20Orange%20%2B%20Item.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Vegetables and fruits",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Vegetables%20and%20fruits/Vegetables%20and%20fruits.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Vegetables%20and%20fruits/V%20Vegetables%20and%20fruits.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Vegetables and Fruits 2",
+			"image": "https://aweu.net/MELONMASTER/Fruits/Vegetables%20and%20Fruits%202/Vegetables%20and%20Fruits%202.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Fruits/Vegetables%20and%20Fruits%202/V%20Vegetables%20and%20Fruits%202.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Fast Food Pack",
+			"image": "https://aweu.net/MELONMASTER/Food/Fast%20Food%20Pack/Fast%20Food%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Fast%20Food%20Pack/V%20Fast%20Food%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Food",
+			"image": "https://aweu.net/MELONMASTER/Food/Food/Food.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Food/V%20Food.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Food From Minecraft",
+			"image": "https://aweu.net/MELONMASTER/Food/Food%20From%20Minecraft/Food%20From%20Minecraft.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Food%20From%20Minecraft/V%20Food%20From%20Minecraft.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Food Mod",
+			"image": "https://aweu.net/MELONMASTER/Food/Food%20Mod/Food%20Mod.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Food%20Mod/V%20Food%20Mod.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Food Pack",
+			"image": "https://aweu.net/MELONMASTER/Food/Food%20Pack/Food%20Pack.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Food%20Pack/V%20Food%20Pack.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Foodcar",
+			"image": "https://aweu.net/MELONMASTER/Food/Foodcar/Foodcar.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Foodcar/V%20Foodcar.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "French Baguette",
+			"image": "https://aweu.net/MELONMASTER/Food/French%20Baguette/French%20Baguette.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/French%20Baguette/V%20French%20Baguette.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "Pack for food",
+			"image": "https://aweu.net/MELONMASTER/Food/Pack%20for%20food/Pack%20for%20food.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/Pack%20for%20food/V%20Pack%20for%20food.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		},
+		{
+			"name": "STALKER Food",
+			"image": "https://aweu.net/MELONMASTER/Food/STALKER%20Food/STALKER%20Food.jpg",
+			"link_mods": "https://aweu.net/MELONMASTER/Food/STALKER%20Food/V%20STALKER%20Food.zip",
+			"link_saves": "null",
+			"type": "C",
+			"description": ""
+		}
+	]
 }
